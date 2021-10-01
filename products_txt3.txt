@@ -1,0 +1,714 @@
+﻿{"barcode": "3282716759077", "category": "Tools", "product_name": "Fresh Towels", "color": "Orange", "material": "glass", "price": 655.1}
+{"barcode": "6048454209734", "category": "Garden", "product_name": "Concrete Chips", "color": "LightSalmon", "material": "metal", "price": 110.66}
+{"barcode": "7111016648117", "category": "Automotive", "product_name": "Sausages", "color": "Thistle", "material": "metal", "price": 505.86}
+{"barcode": "6211514878380", "category": "Games", "product_name": "Chips", "color": "Navy", "material": "metal", "price": 14.24}
+{"barcode": "2668428231970", "category": "Beauty", "product_name": "Ball", "color": "Maroon", "material": "metal", "price": 158.01}
+{"barcode": "0725903577304", "category": "Kids", "product_name": "Rustic Frozen Chair", "color": "LightGray", "material": "rubber", "price": 898.37}
+{"barcode": "3223126245859", "category": "Jewelery", "product_name": "Rubber Car", "color": "DarkViolet", "material": "glass", "price": 188.69}
+{"barcode": "5482806035199", "category": "Baby", "product_name": "Rubber Hat", "color": "LightGray", "material": "glass", "price": 405.52}
+{"barcode": "7517007667370", "category": "Movies", "product_name": "Sleek Frozen Chicken", "color": "MediumSlateBlue", "material": "rubber", "price": 466.41}
+{"barcode": "3701886631568", "category": "Shoes", "product_name": "Generic Chicken", "color": "SeaShell", "material": "metal", "price": 303.12}
+{"barcode": "3716655986749", "category": "Jewelery", "product_name": "Used Soft Hat", "color": "Blue", "material": "metal", "price": 194.59}
+{"barcode": "9984515672963", "category": "Tools", "product_name": "Steel Car", "color": "CornflowerBlue", "material": "glass", "price": 734.61}
+{"barcode": "0981490382558", "category": "Movies", "product_name": "Rustic Pizza", "color": "Indigo", "material": "metal", "price": 136.63}
+{"barcode": "5561238596932", "category": "Jewelery", "product_name": "Chair", "color": "Chocolate", "material": "glass", "price": 432.25}
+{"barcode": "1088175316651", "category": "Beauty", "product_name": "Ball", "color": "Bisque", "material": "plastic", "price": 637.59}
+{"barcode": "0307441219597", "category": "Books", "product_name": "Chicken", "color": "Peru", "material": "glass", "price": 861.75}
+{"barcode": "7522488201838", "category": "Games", "product_name": "Refined Metal Tuna", "color": "Orchid", "material": "metal", "price": 825.82}
+{"barcode": "5772365180011", "category": "Garden", "product_name": "Frozen Chicken", "color": "MediumSlateBlue", "material": "glass", "price": 959.82}
+{"barcode": "8100368435741", "category": "Outdoors", "product_name": "Chair", "color": "DarkOliveGreen", "material": "rubber", "price": 586.7}
+{"barcode": "7722071227829", "category": "Movies", "product_name": "Awesome Pants", "color": "LightBlue", "material": "plastic", "price": 570.88}
+{"barcode": "1951353541773", "category": "Kids", "product_name": "Unbranded Soft Mouse", "color": "MediumTurquoise", "material": "rubber", "price": 722.05}
+{"barcode": "6088830757299", "category": "Clothing", "product_name": "Rustic Plastic Towels", "color": "Pink", "material": "plastic", "price": 92.41}
+{"barcode": "4194043109748", "category": "Outdoors", "product_name": "Concrete Pants", "color": "Wheat", "material": "rubber", "price": 147.71}
+{"barcode": "0403672712460", "category": "Books", "product_name": "Fresh Bacon", "color": "DodgerBlue", "material": "metal", "price": 974.95}
+{"barcode": "4628352191342", "category": "Automotive", "product_name": "Car", "color": "Khaki", "material": "glass", "price": 438.43}
+{"barcode": "3474393408885", "category": "Clothing", "product_name": "Licensed Pants", "color": "LightSkyBlue", "material": "rubber", "price": 25.35}
+{"barcode": "0951730010671", "category": "Music", "product_name": "Hat", "color": "SeaGreen", "material": "metal", "price": 417.21}
+{"barcode": "1871424638754", "category": "Garden", "product_name": "Ergonomic Soft Bacon", "color": "DarkOliveGreen", "material": "metal", "price": 203.76}
+{"barcode": "5962564856323", "category": "Outdoors", "product_name": "Fantastic Car", "color": "SlateBlue", "material": "metal", "price": 772.79}
+{"barcode": "3605852016406", "category": "Kids", "product_name": "Rubber Chicken", "color": "LightCyan", "material": "plastic", "price": 779.68}
+{"barcode": "8990108266120", "category": "Sports", "product_name": "Cheese", "color": "LightGreen", "material": "metal", "price": 631.48}
+{"barcode": "0505110393795", "category": "Garden", "product_name": "Used Pizza", "color": "LightPink", "material": "glass", "price": 450.23}
+{"barcode": "5692105725343", "category": "Clothing", "product_name": "Fresh Chicken", "color": "SkyBlue", "material": "metal", "price": 742.65}
+{"barcode": "7252487356177", "category": "Health", "product_name": "Gloves", "color": "PowderBlue", "material": "metal", "price": 431.39}
+{"barcode": "4179786856371", "category": "Home", "product_name": "Steel Car", "color": "MidnightBlue", "material": "metal", "price": 784.45}
+{"barcode": "3843816017902", "category": "Automotive", "product_name": "Mouse", "color": "DarkSalmon", "material": "plastic", "price": 898.18}
+{"barcode": "3642032951416", "category": "Garden", "product_name": "Awesome Metal Bacon", "color": "Orchid", "material": "plastic", "price": 725.97}
+{"barcode": "6737692801519", "category": "Computers", "product_name": "Frozen Shirt", "color": "Brown", "material": "rubber", "price": 989.02}
+{"barcode": "8647395095383", "category": "Beauty", "product_name": "Unbranded Keyboard", "color": "FireBrick", "material": "plastic", "price": 431.39}
+{"barcode": "7577142967711", "category": "Beauty", "product_name": "Incredible Gloves", "color": "Tan", "material": "glass", "price": 416.73}
+{"barcode": "0634090209205", "category": "Books", "product_name": "Computer", "color": "MediumTurquoise", "material": "plastic", "price": 381.74}
+{"barcode": "0143073297615", "category": "Movies", "product_name": "Licensed Frozen Chicken", "color": "DarkBlue", "material": "rubber", "price": 262.91}
+{"barcode": "9305637504053", "category": "Beauty", "product_name": "Sleek Frozen Gloves", "color": "MistyRose", "material": "rubber", "price": 912.45}
+{"barcode": "6746279485530", "category": "Garden", "product_name": "Bike", "color": "SandyBrown", "material": "glass", "price": 340.2}
+{"barcode": "0866249717631", "category": "Toys", "product_name": "Practical Salad", "color": "Orange", "material": "plastic", "price": 493.83}
+{"barcode": "5934330756779", "category": "Movies", "product_name": "Shoes", "color": "LightSeaGreen", "material": "rubber", "price": 417.73}
+{"barcode": "4056572318469", "category": "Clothing", "product_name": "Rubber Towels", "color": "DarkSalmon", "material": "rubber", "price": 834.12}
+{"barcode": "7382379374528", "category": "Shoes", "product_name": "Frozen Chair", "color": "Crimson", "material": "glass", "price": 892.26}
+{"barcode": "0533920381114", "category": "Movies", "product_name": "Fantastic Rubber Mouse", "color": "Beige", "material": "glass", "price": 946.81}
+{"barcode": "4155615673883", "category": "Jewelery", "product_name": "Soap", "color": "Gray", "material": "rubber", "price": 569.63}
+{"barcode": "4462766939202", "category": "Automotive", "product_name": "Licensed Metal Gloves", "color": "Magenta", "material": "metal", "price": 693.77}
+{"barcode": "0604752676539", "category": "Sports", "product_name": "New Cheese", "color": "Tomato", "material": "glass", "price": 328.83}
+{"barcode": "9446806340802", "category": "Music", "product_name": "Car", "color": "MediumPurple", "material": "glass", "price": 697.52}
+{"barcode": "3786909631107", "category": "Jewelery", "product_name": "Licensed Shirt", "color": "OrangeRed", "material": "rubber", "price": 15.77}
+{"barcode": "4587762872817", "category": "Electronics", "product_name": "Incredible Steel Shirt", "color": "DarkSeaGreen", "material": "plastic", "price": 843.02}
+{"barcode": "1172492378215", "category": "Music", "product_name": "Practical Computer", "color": "LightGray", "material": "metal", "price": 954.84}
+{"barcode": "2673201022355", "category": "Industrial", "product_name": "New Plastic Gloves", "color": "MistyRose", "material": "rubber", "price": 654.94}
+{"barcode": "7983076553973", "category": "Clothing", "product_name": "Bike", "color": "Pink", "material": "rubber", "price": 21.9}
+{"barcode": "3421948754102", "category": "Jewelery", "product_name": "Pants", "color": "MediumPurple", "material": "metal", "price": 761.34}
+{"barcode": "8684190214731", "category": "Beauty", "product_name": "Licensed Chicken", "color": "Gray", "material": "metal", "price": 353.97}
+{"barcode": "8845796127577", "category": "Industrial", "product_name": "New Steel Sausages", "color": "SpringGreen", "material": "plastic", "price": 427.03}
+{"barcode": "8188388207265", "category": "Beauty", "product_name": "Used Wooden Keyboard", "color": "Green", "material": "glass", "price": 169.36}
+{"barcode": "5433187616569", "category": "Movies", "product_name": "Cheese", "color": "LightYellow", "material": "metal", "price": 459.08}
+{"barcode": "6421043868183", "category": "Jewelery", "product_name": "Bacon", "color": "LightSalmon", "material": "rubber", "price": 109.35}
+{"barcode": "4411995288568", "category": "Movies", "product_name": "Soft Bike", "color": "Salmon", "material": "metal", "price": 697.19}
+{"barcode": "9417224978281", "category": "Grocery", "product_name": "Sausages", "color": "LightSteelBlue", "material": "metal", "price": 499.62}
+{"barcode": "8977108652528", "category": "Clothing", "product_name": "Granite Computer", "color": "Orange", "material": "plastic", "price": 675.83}
+{"barcode": "0096412677480", "category": "Games", "product_name": "Computer", "color": "NavajoWhite", "material": "glass", "price": 565.31}
+{"barcode": "3740915613427", "category": "Jewelery", "product_name": "Rustic Rubber Soap", "color": "Chocolate", "material": "metal", "price": 919.76}
+{"barcode": "3656514197087", "category": "Jewelery", "product_name": "Soft Salad", "color": "BurlyWood", "material": "glass", "price": 620.07}
+{"barcode": "0216656221274", "category": "Home", "product_name": "Gloves", "color": "GhostWhite", "material": "glass", "price": 864.98}
+{"barcode": "1447811875349", "category": "Shoes", "product_name": "Gorgeous Granite Computer", "color": "LightCoral", "material": "plastic", "price": 918.56}
+{"barcode": "2377099168477", "category": "Outdoors", "product_name": "Unbranded Keyboard", "color": "Linen", "material": "glass", "price": 36.49}
+{"barcode": "2197210946100", "category": "Beauty", "product_name": "Refined Shoes", "color": "PaleGoldenRod", "material": "rubber", "price": 830.8}
+{"barcode": "0847994420908", "category": "Outdoors", "product_name": "Steel Table", "color": "DarkOrchid", "material": "plastic", "price": 896.65}
+{"barcode": "3724362009620", "category": "Beauty", "product_name": "Rustic Fish", "color": "DarkRed", "material": "glass", "price": 408.41}
+{"barcode": "8434306606420", "category": "Books", "product_name": "Rubber Bike", "color": "LightSlateGray", "material": "glass", "price": 439.14}
+{"barcode": "8695052583070", "category": "Books", "product_name": "Mouse", "color": "Red", "material": "metal", "price": 768.25}
+{"barcode": "9257744471875", "category": "Automotive", "product_name": "Refined Plastic Chips", "color": "DarkGoldenRod", "material": "plastic", "price": 452.09}
+{"barcode": "0564373822954", "category": "Industrial", "product_name": "Chair", "color": "LawnGreen", "material": "glass", "price": 766.9}
+{"barcode": "2365552111405", "category": "Beauty", "product_name": "Generic Chips", "color": "OrangeRed", "material": "rubber", "price": 803.25}
+{"barcode": "9784276269613", "category": "Clothing", "product_name": "Fantastic Wooden Pizza", "color": "LightPink", "material": "rubber", "price": 304.83}
+{"barcode": "7487694082094", "category": "Shoes", "product_name": "Intelligent Soap", "color": "BlanchedAlmond", "material": "glass", "price": 622.35}
+{"barcode": "6595340369138", "category": "Garden", "product_name": "Plastic Shoes", "color": "OldLace", "material": "plastic", "price": 686.48}
+{"barcode": "4482422307220", "category": "Music", "product_name": "Concrete Salad", "color": "LightSeaGreen", "material": "metal", "price": 564.56}
+{"barcode": "9988113621118", "category": "Home", "product_name": "Handcrafted Plastic Gloves", "color": "Salmon", "material": "rubber", "price": 96.49}
+{"barcode": "1720730739078", "category": "Jewelery", "product_name": "Ball", "color": "PaleGoldenRod", "material": "metal", "price": 603.43}
+{"barcode": "1197992109701", "category": "Beauty", "product_name": "For repair Cotton Bacon", "color": "Brown", "material": "rubber", "price": 744.66}
+{"barcode": "1010708557576", "category": "Clothing", "product_name": "Chair", "color": "Orchid", "material": "metal", "price": 950.75}
+{"barcode": "5052192755102", "category": "Baby", "product_name": "Rubber Shoes", "color": "LightYellow", "material": "rubber", "price": 913.72}
+{"barcode": "3079532543207", "category": "Toys", "product_name": "Fantastic Salad", "color": "Blue", "material": "rubber", "price": 328.74}
+{"barcode": "6884642206778", "category": "Tools", "product_name": "Soap", "color": "HoneyDew", "material": "metal", "price": 288.56}
+{"barcode": "7979916253394", "category": "Home", "product_name": "Ergonomic Hat", "color": "Blue", "material": "glass", "price": 152.26}
+{"barcode": "4292428279007", "category": "Music", "product_name": "Practical Bike", "color": "DarkKhaki", "material": "plastic", "price": 638.75}
+{"barcode": "3348809495366", "category": "Movies", "product_name": "Cheese", "color": "Coral", "material": "rubber", "price": 236.48}
+{"barcode": "0059254215401", "category": "Beauty", "product_name": "Unbranded Soft Computer", "color": "GhostWhite", "material": "glass", "price": 579.23}
+{"barcode": "5242763689930", "category": "Garden", "product_name": "Handmade Steel Keyboard", "color": "LightGray", "material": "glass", "price": 33.42}
+{"barcode": "7167416576772", "category": "Beauty", "product_name": "Licensed Computer", "color": "MistyRose", "material": "glass", "price": 909.7}
+{"barcode": "5007362333079", "category": "Shoes", "product_name": "Intelligent Fresh Salad", "color": "LawnGreen", "material": "plastic", "price": 14.6}
+{"barcode": "9080463916705", "category": "Computers", "product_name": "Chair", "color": "DarkSeaGreen", "material": "plastic", "price": 865.6}
+{"barcode": "1635038480129", "category": "Electronics", "product_name": "Gently Used Hat", "color": "Coral", "material": "rubber", "price": 607.61}
+{"barcode": "8499056772429", "category": "Kids", "product_name": "Soap", "color": "DarkCyan", "material": "rubber", "price": 596.94}
+{"barcode": "8671635750190", "category": "Jewelery", "product_name": "Wooden Gloves", "color": "SpringGreen", "material": "rubber", "price": 157.94}
+{"barcode": "2332189939887", "category": "Baby", "product_name": "Fresh Keyboard", "color": "LightYellow", "material": "plastic", "price": 299.27}
+{"barcode": "7006560383266", "category": "Tools", "product_name": "Rubber Bacon", "color": "MidnightBlue", "material": "plastic", "price": 472.53}
+{"barcode": "7845951402274", "category": "Kids", "product_name": "Car", "color": "Peru", "material": "glass", "price": 285.26}
+{"barcode": "9357647047440", "category": "Sports", "product_name": "Shirt", "color": "GhostWhite", "material": "rubber", "price": 935.75}
+{"barcode": "7241076990991", "category": "Shoes", "product_name": "Sleek Rubber Chair", "color": "MediumSpringGreen", "material": "rubber", "price": 737.1}
+{"barcode": "5535326963326", "category": "Jewelery", "product_name": "Concrete Soap", "color": "PaleGreen", "material": "glass", "price": 277.42}
+{"barcode": "1467113919817", "category": "Kids", "product_name": "Practical Towels", "color": "RoyalBlue", "material": "rubber", "price": 125.38}
+{"barcode": "2808627537491", "category": "Games", "product_name": "Tasty Table", "color": "Gainsboro", "material": "glass", "price": 14.04}
+{"barcode": "6965554505866", "category": "Tools", "product_name": "Tasty Cotton Tuna", "color": "Orchid", "material": "plastic", "price": 799.99}
+{"barcode": "6249051277571", "category": "Kids", "product_name": "Unbranded Fresh Sausages", "color": "CornflowerBlue", "material": "metal", "price": 483.53}
+{"barcode": "9680746734974", "category": "Beauty", "product_name": "Licensed Soap", "color": "Wheat", "material": "metal", "price": 768.89}
+{"barcode": "3635701825415", "category": "Electronics", "product_name": "Table", "color": "Orange", "material": "metal", "price": 881.18}
+{"barcode": "9787473428906", "category": "Baby", "product_name": "Sleek Granite Keyboard", "color": "LightBlue", "material": "plastic", "price": 278.62}
+{"barcode": "4486058950591", "category": "Grocery", "product_name": "Intelligent Gloves", "color": "DarkOrchid", "material": "glass", "price": 587.98}
+{"barcode": "3466659761858", "category": "Jewelery", "product_name": "Generic Table", "color": "AntiqueWhite", "material": "glass", "price": 151.05}
+{"barcode": "5157765602255", "category": "Beauty", "product_name": "Handmade Granite Cheese", "color": "White", "material": "rubber", "price": 826.39}
+{"barcode": "5968661502750", "category": "Kids", "product_name": "Wooden Computer", "color": "SpringGreen", "material": "metal", "price": 269.45}
+{"barcode": "8419825211294", "category": "Movies", "product_name": "Ergonomic Concrete Chips", "color": "LightSteelBlue", "material": "metal", "price": 558.54}
+{"barcode": "6967148714777", "category": "Toys", "product_name": "Licensed Salad", "color": "Coral", "material": "rubber", "price": 954.49}
+{"barcode": "0844233718611", "category": "Shoes", "product_name": "Car", "color": "Aquamarine", "material": "metal", "price": 354.37}
+{"barcode": "6121709141444", "category": "Sports", "product_name": "Tuna", "color": "RosyBrown", "material": "rubber", "price": 538.28}
+{"barcode": "4913813556663", "category": "Tools", "product_name": "Used Cotton Car", "color": "Thistle", "material": "plastic", "price": 882.24}
+{"barcode": "0696064373039", "category": "Grocery", "product_name": "Metal Chicken", "color": "LavenderBlush", "material": "glass", "price": 684.74}
+{"barcode": "1124823403028", "category": "Sports", "product_name": "Intelligent Gloves", "color": "Peru", "material": "glass", "price": 362.75}
+{"barcode": "5893385317048", "category": "Computers", "product_name": "Shoes", "color": "Linen", "material": "metal", "price": 291.6}
+{"barcode": "8154896146297", "category": "Kids", "product_name": "Concrete Keyboard", "color": "DeepPink", "material": "glass", "price": 894.66}
+{"barcode": "8916438543649", "category": "Tools", "product_name": "Salad", "color": "Fuchsia", "material": "rubber", "price": 926.58}
+{"barcode": "5713897575340", "category": "Tools", "product_name": "Concrete Soap", "color": "CadetBlue", "material": "rubber", "price": 708.04}
+{"barcode": "4576596233758", "category": "Baby", "product_name": "Ergonomic Pizza", "color": "MediumPurple", "material": "glass", "price": 780.09}
+{"barcode": "9388734529587", "category": "Games", "product_name": "Chair", "color": "SeaGreen", "material": "glass", "price": 358.42}
+{"barcode": "5186630135512", "category": "Movies", "product_name": "Hat", "color": "Red", "material": "rubber", "price": 585.11}
+{"barcode": "1314350197532", "category": "Jewelery", "product_name": "Concrete Computer", "color": "DarkOliveGreen", "material": "rubber", "price": 144.03}
+{"barcode": "5620945434521", "category": "Grocery", "product_name": "Generic Plastic Chicken", "color": "SkyBlue", "material": "rubber", "price": 203.54}
+{"barcode": "7755362921991", "category": "Home", "product_name": "Granite Bacon", "color": "PapayaWhip", "material": "rubber", "price": 89.25}
+{"barcode": "7898312646220", "category": "Garden", "product_name": "Shirt", "color": "DarkSlateGray", "material": "glass", "price": 175.07}
+{"barcode": "2488597445868", "category": "Games", "product_name": "Bacon", "color": "Khaki", "material": "rubber", "price": 710.54}
+{"barcode": "9503687158862", "category": "Beauty", "product_name": "Ball", "color": "PaleVioletRed", "material": "plastic", "price": 251.25}
+{"barcode": "3925632381341", "category": "Music", "product_name": "Soft Salad", "color": "OldLace", "material": "rubber", "price": 528.14}
+{"barcode": "7412941518279", "category": "Beauty", "product_name": "Generic Tuna", "color": "LawnGreen", "material": "plastic", "price": 464.92}
+{"barcode": "2464275127516", "category": "Electronics", "product_name": "Refined Shoes", "color": "Sienna", "material": "glass", "price": 944.49}
+{"barcode": "1983676233684", "category": "Baby", "product_name": "Gloves", "color": "Violet", "material": "metal", "price": 838.69}
+{"barcode": "3100510447214", "category": "Shoes", "product_name": "Handcrafted Metal Chicken", "color": "RosyBrown", "material": "glass", "price": 811.83}
+{"barcode": "9479484375248", "category": "Garden", "product_name": "Steel Fish", "color": "Tomato", "material": "rubber", "price": 534.93}
+{"barcode": "5297975956462", "category": "Health", "product_name": "Rubber Towels", "color": "Thistle", "material": "rubber", "price": 18.07}
+{"barcode": "3372264146617", "category": "Games", "product_name": "Cheese", "color": "PaleVioletRed", "material": "plastic", "price": 172.99}
+{"barcode": "7259153102656", "category": "Jewelery", "product_name": "Used Plastic Hat", "color": "ForestGreen", "material": "rubber", "price": 670.46}
+{"barcode": "6177437108310", "category": "Industrial", "product_name": "Intelligent Steel Tuna", "color": "DarkSalmon", "material": "glass", "price": 669.65}
+{"barcode": "7786091308494", "category": "Health", "product_name": "Rustic Shirt", "color": "SeaShell", "material": "metal", "price": 33.76}
+{"barcode": "0097598762410", "category": "Home", "product_name": "Granite Chair", "color": "White", "material": "metal", "price": 618.69}
+{"barcode": "1328080765770", "category": "Sports", "product_name": "Tasty Metal Keyboard", "color": "Aquamarine", "material": "plastic", "price": 403.45}
+{"barcode": "6260084948986", "category": "Home", "product_name": "Concrete Sausages", "color": "DarkRed", "material": "plastic", "price": 13.77}
+{"barcode": "2474128374752", "category": "Jewelery", "product_name": "Fantastic Soft Gloves", "color": "FireBrick", "material": "plastic", "price": 690.0}
+{"barcode": "0811188539714", "category": "Sports", "product_name": "Computer", "color": "LightSkyBlue", "material": "metal", "price": 399.91}
+{"barcode": "0291887215100", "category": "Home", "product_name": "Gorgeous Soft Chicken", "color": "DarkMagenta", "material": "metal", "price": 942.03}
+{"barcode": "6468869868027", "category": "Tools", "product_name": "Steel Keyboard", "color": "LightYellow", "material": "glass", "price": 253.58}
+{"barcode": "0280480600253", "category": "Kids", "product_name": "Pizza", "color": "DarkSalmon", "material": "plastic", "price": 399.17}
+{"barcode": "9503999448446", "category": "Movies", "product_name": "Pizza", "color": "OrangeRed", "material": "rubber", "price": 625.2}
+{"barcode": "7200442313154", "category": "Music", "product_name": "Small Computer", "color": "Salmon", "material": "rubber", "price": 320.8}
+{"barcode": "4674556807268", "category": "Outdoors", "product_name": "Plastic Salad", "color": "Purple", "material": "plastic", "price": 356.36}
+{"barcode": "7469759874110", "category": "Movies", "product_name": "Intelligent Fresh Ball", "color": "FireBrick", "material": "plastic", "price": 439.1}
+{"barcode": "6412852206952", "category": "Clothing", "product_name": "Plastic Chips", "color": "MintCream", "material": "metal", "price": 61.86}
+{"barcode": "2967830881057", "category": "Home", "product_name": "Licensed Tuna", "color": "Black", "material": "rubber", "price": 684.29}
+{"barcode": "6681431619562", "category": "Music", "product_name": "Fish", "color": "DarkGoldenRod", "material": "metal", "price": 630.19}
+{"barcode": "0395675727858", "category": "Grocery", "product_name": "Unbranded Pizza", "color": "DarkSlateGray", "material": "plastic", "price": 683.55}
+{"barcode": "8192245675432", "category": "Beauty", "product_name": "Hat", "color": "Coral", "material": "metal", "price": 143.95}
+{"barcode": "0788934840830", "category": "Beauty", "product_name": "Plastic Fish", "color": "SteelBlue", "material": "rubber", "price": 61.33}
+{"barcode": "1650634778357", "category": "Baby", "product_name": "Soft Chicken", "color": "Green", "material": "glass", "price": 314.42}
+{"barcode": "5972343372784", "category": "Kids", "product_name": "Plastic Ball", "color": "DodgerBlue", "material": "metal", "price": 562.84}
+{"barcode": "7791048580106", "category": "Home", "product_name": "Gorgeous Salad", "color": "MediumSpringGreen", "material": "plastic", "price": 134.66}
+{"barcode": "5299982050683", "category": "Baby", "product_name": "Handcrafted Frozen Chicken", "color": "Magenta", "material": "plastic", "price": 537.45}
+{"barcode": "2375433807594", "category": "Toys", "product_name": "Rubber Shoes", "color": "LightCoral", "material": "rubber", "price": 857.06}
+{"barcode": "5391847011034", "category": "Home", "product_name": "Fantastic Rubber Chair", "color": "DarkCyan", "material": "rubber", "price": 731.72}
+{"barcode": "4230747375901", "category": "Shoes", "product_name": "Shirt", "color": "DarkKhaki", "material": "rubber", "price": 973.81}
+{"barcode": "2263924941264", "category": "Computers", "product_name": "Fresh Shirt", "color": "Magenta", "material": "glass", "price": 124.32}
+{"barcode": "4359245406471", "category": "Baby", "product_name": "Awesome Frozen Pants", "color": "MediumSlateBlue", "material": "rubber", "price": 900.74}
+{"barcode": "1192803477277", "category": "Movies", "product_name": "Granite Mouse", "color": "Lime", "material": "plastic", "price": 162.87}
+{"barcode": "8294809046952", "category": "Automotive", "product_name": "Awesome Soft Shoes", "color": "Azure", "material": "rubber", "price": 520.15}
+{"barcode": "2706743742044", "category": "Electronics", "product_name": "Cotton Chicken", "color": "Snow", "material": "glass", "price": 649.36}
+{"barcode": "0175417223493", "category": "Tools", "product_name": "Rustic Wooden Chair", "color": "SkyBlue", "material": "glass", "price": 8.45}
+{"barcode": "0676453240661", "category": "Electronics", "product_name": "Steel Soap", "color": "Lavender", "material": "metal", "price": 235.12}
+{"barcode": "7011596576209", "category": "Garden", "product_name": "Cheese", "color": "IndianRed", "material": "plastic", "price": 2.56}
+{"barcode": "5715247107904", "category": "Clothing", "product_name": "Keyboard", "color": "Linen", "material": "glass", "price": 579.6}
+{"barcode": "1293227092128", "category": "Shoes", "product_name": "Used Concrete Bike", "color": "SteelBlue", "material": "plastic", "price": 634.82}
+{"barcode": "4506317072250", "category": "Books", "product_name": "Sleek Car", "color": "LawnGreen", "material": "glass", "price": 235.59}
+{"barcode": "4346986907442", "category": "Kids", "product_name": "Refined Wooden Shirt", "color": "SlateBlue", "material": "glass", "price": 58.97}
+{"barcode": "8970898073689", "category": "Health", "product_name": "Handmade Metal Soap", "color": "ForestGreen", "material": "plastic", "price": 300.61}
+{"barcode": "3986858546402", "category": "Health", "product_name": "Unbranded Steel Computer", "color": "Orchid", "material": "plastic", "price": 692.64}
+{"barcode": "1429606796220", "category": "Garden", "product_name": "Fish", "color": "Red", "material": "rubber", "price": 70.43}
+{"barcode": "3421534420855", "category": "Grocery", "product_name": "Concrete Tuna", "color": "SlateGray", "material": "metal", "price": 877.53}
+{"barcode": "1566804511160", "category": "Baby", "product_name": "Small Fish", "color": "LavenderBlush", "material": "plastic", "price": 282.17}
+{"barcode": "9619916700853", "category": "Outdoors", "product_name": "Steel Sausages", "color": "SkyBlue", "material": "rubber", "price": 960.18}
+{"barcode": "9250746435173", "category": "Industrial", "product_name": "Cotton Mouse", "color": "BlanchedAlmond", "material": "metal", "price": 314.47}
+{"barcode": "6655692706538", "category": "Home", "product_name": "Awesome Rubber Towels", "color": "Chartreuse", "material": "plastic", "price": 617.43}
+{"barcode": "4940973869296", "category": "Sports", "product_name": "Awesome Frozen Keyboard", "color": "LightSteelBlue", "material": "glass", "price": 111.68}
+{"barcode": "4145814690194", "category": "Kids", "product_name": "New Cotton Fish", "color": "Silver", "material": "metal", "price": 465.86}
+{"barcode": "8447246324439", "category": "Industrial", "product_name": "Metal Shirt", "color": "LimeGreen", "material": "rubber", "price": 207.83}
+{"barcode": "1272571380341", "category": "Toys", "product_name": "Intelligent Cotton Tuna", "color": "LightGreen", "material": "glass", "price": 305.99}
+{"barcode": "9855561488856", "category": "Games", "product_name": "Gorgeous Ball", "color": "Peru", "material": "glass", "price": 341.63}
+{"barcode": "8890989537633", "category": "Industrial", "product_name": "Steel Pizza", "color": "Peru", "material": "glass", "price": 268.33}
+{"barcode": "6688891372211", "category": "Music", "product_name": "Concrete Soap", "color": "Snow", "material": "glass", "price": 245.27}
+{"barcode": "3502856445532", "category": "Toys", "product_name": "Cotton Chicken", "color": "FireBrick", "material": "glass", "price": 668.81}
+{"barcode": "8205016580511", "category": "Tools", "product_name": "Rustic Ball", "color": "Crimson", "material": "rubber", "price": 929.52}
+{"barcode": "8477270255492", "category": "Clothing", "product_name": "Incredible Wooden Gloves", "color": "BurlyWood", "material": "glass", "price": 505.01}
+{"barcode": "9524259712787", "category": "Outdoors", "product_name": "Fresh Chips", "color": "HoneyDew", "material": "rubber", "price": 630.38}
+{"barcode": "7258995262306", "category": "Tools", "product_name": "Wooden Gloves", "color": "LightSeaGreen", "material": "glass", "price": 733.18}
+{"barcode": "1483222871242", "category": "Computers", "product_name": "Practical Fresh Computer", "color": "Azure", "material": "plastic", "price": 579.95}
+{"barcode": "1670750575975", "category": "Industrial", "product_name": "Gently Used Steel Table", "color": "PowderBlue", "material": "glass", "price": 812.88}
+{"barcode": "3911866943776", "category": "Shoes", "product_name": "Shoes", "color": "Beige", "material": "metal", "price": 10.31}
+{"barcode": "8859838406063", "category": "Computers", "product_name": "Cotton Computer", "color": "BlanchedAlmond", "material": "plastic", "price": 71.11}
+{"barcode": "9591247829024", "category": "Grocery", "product_name": "Wooden Keyboard", "color": "DarkGreen", "material": "plastic", "price": 548.06}
+{"barcode": "0255508590076", "category": "Industrial", "product_name": "Soft Gloves", "color": "Tomato", "material": "metal", "price": 855.13}
+{"barcode": "9249343678663", "category": "Electronics", "product_name": "Used Mouse", "color": "SaddleBrown", "material": "rubber", "price": 980.79}
+{"barcode": "9111781940797", "category": "Garden", "product_name": "Practical Steel Pizza", "color": "Red", "material": "rubber", "price": 309.36}
+{"barcode": "9980391511945", "category": "Tools", "product_name": "Sleek Soap", "color": "DarkGray", "material": "rubber", "price": 244.37}
+{"barcode": "6943845781625", "category": "Automotive", "product_name": "Shirt", "color": "LavenderBlush", "material": "rubber", "price": 307.89}
+{"barcode": "1158612662815", "category": "Beauty", "product_name": "Shirt", "color": "Lime", "material": "metal", "price": 901.59}
+{"barcode": "2109803468050", "category": "Shoes", "product_name": "Refined Steel Chicken", "color": "DeepSkyBlue", "material": "glass", "price": 867.06}
+{"barcode": "5893325206371", "category": "Movies", "product_name": "Fresh Chips", "color": "LightGoldenRodYellow", "material": "glass", "price": 198.73}
+{"barcode": "4715965858905", "category": "Toys", "product_name": "Cotton Hat", "color": "SpringGreen", "material": "rubber", "price": 960.53}
+{"barcode": "6166203415165", "category": "Baby", "product_name": "Intelligent Chips", "color": "MediumTurquoise", "material": "rubber", "price": 434.31}
+{"barcode": "9514048218538", "category": "Industrial", "product_name": "Computer", "color": "Maroon", "material": "glass", "price": 309.85}
+{"barcode": "1291140427881", "category": "Garden", "product_name": "Steel Fish", "color": "Wheat", "material": "rubber", "price": 990.04}
+{"barcode": "8839063529621", "category": "Electronics", "product_name": "Generic Table", "color": "MediumSeaGreen", "material": "rubber", "price": 804.58}
+{"barcode": "7316550668632", "category": "Outdoors", "product_name": "Shirt", "color": "Violet", "material": "plastic", "price": 516.9}
+{"barcode": "4593723918739", "category": "Electronics", "product_name": "Rubber Chicken", "color": "SeaShell", "material": "metal", "price": 708.71}
+{"barcode": "3250954323053", "category": "Grocery", "product_name": "Rustic Tuna", "color": "Gainsboro", "material": "glass", "price": 932.66}
+{"barcode": "8255954852164", "category": "Outdoors", "product_name": "Refined Hat", "color": "WhiteSmoke", "material": "rubber", "price": 208.6}
+{"barcode": "8282462759296", "category": "Jewelery", "product_name": "Used Soft Car", "color": "LavenderBlush", "material": "rubber", "price": 724.43}
+{"barcode": "1645938717737", "category": "Garden", "product_name": "Plastic Chair", "color": "HotPink", "material": "rubber", "price": 678.99}
+{"barcode": "4902039687893", "category": "Baby", "product_name": "Plastic Cheese", "color": "Azure", "material": "plastic", "price": 215.68}
+{"barcode": "4157045816670", "category": "Outdoors", "product_name": "Car", "color": "Fuchsia", "material": "plastic", "price": 131.8}
+{"barcode": "5849931151888", "category": "Health", "product_name": "Ergonomic Chair", "color": "HotPink", "material": "plastic", "price": 414.89}
+{"barcode": "1197098974463", "category": "Computers", "product_name": "Rubber Hat", "color": "Magenta", "material": "glass", "price": 400.16}
+{"barcode": "1450833401977", "category": "Movies", "product_name": "Handmade Car", "color": "DarkGoldenRod", "material": "rubber", "price": 49.0}
+{"barcode": "7709970325801", "category": "Toys", "product_name": "Intelligent Tuna", "color": "LightSlateGray", "material": "metal", "price": 735.95}
+{"barcode": "5076837070627", "category": "Beauty", "product_name": "Fish", "color": "DarkSalmon", "material": "rubber", "price": 326.11}
+{"barcode": "8234889779456", "category": "Computers", "product_name": "Gently Used Fresh Soap", "color": "LightSteelBlue", "material": "rubber", "price": 140.14}
+{"barcode": "5275449552907", "category": "Tools", "product_name": "Ergonomic Cotton Bacon", "color": "LightCyan", "material": "rubber", "price": 706.39}
+{"barcode": "6451917960743", "category": "Movies", "product_name": "Generic Keyboard", "color": "Orchid", "material": "metal", "price": 789.21}
+{"barcode": "9996203155184", "category": "Garden", "product_name": "Rubber Ball", "color": "AntiqueWhite", "material": "metal", "price": 771.98}
+{"barcode": "6549912787240", "category": "Beauty", "product_name": "Frozen Shirt", "color": "Cyan", "material": "rubber", "price": 836.76}
+{"barcode": "9768676786796", "category": "Kids", "product_name": "Concrete Car", "color": "DarkSlateGray", "material": "rubber", "price": 627.1}
+{"barcode": "0745374123640", "category": "Industrial", "product_name": "Soft Pizza", "color": "Indigo", "material": "plastic", "price": 366.19}
+{"barcode": "9782467023730", "category": "Tools", "product_name": "Gorgeous Shoes", "color": "RosyBrown", "material": "plastic", "price": 219.44}
+{"barcode": "2787462219321", "category": "Garden", "product_name": "Sleek Hat", "color": "PaleGoldenRod", "material": "metal", "price": 985.14}
+{"barcode": "7286624692163", "category": "Electronics", "product_name": "Wooden Pizza", "color": "DarkSlateGray", "material": "glass", "price": 443.52}
+{"barcode": "8466342300666", "category": "Books", "product_name": "Licensed Frozen Tuna", "color": "Cyan", "material": "metal", "price": 64.96}
+{"barcode": "1902020341370", "category": "Baby", "product_name": "Ball", "color": "Sienna", "material": "rubber", "price": 673.19}
+{"barcode": "5160354831196", "category": "Movies", "product_name": "Fresh Gloves", "color": "MediumTurquoise", "material": "glass", "price": 91.61}
+{"barcode": "3635388837602", "category": "Health", "product_name": "Keyboard", "color": "Orchid", "material": "metal", "price": 82.4}
+{"barcode": "4646366976052", "category": "Books", "product_name": "Practical Keyboard", "color": "Blue", "material": "metal", "price": 771.79}
+{"barcode": "9185382632726", "category": "Kids", "product_name": "Tasty Chips", "color": "PeachPuff", "material": "rubber", "price": 117.84}
+{"barcode": "3077446831625", "category": "Health", "product_name": "Fresh Mouse", "color": "Orange", "material": "rubber", "price": 368.61}
+{"barcode": "1143545328297", "category": "Industrial", "product_name": "For repair Computer", "color": "DarkGreen", "material": "glass", "price": 55.6}
+{"barcode": "7625235379962", "category": "Health", "product_name": "Tasty Cotton Pants", "color": "LawnGreen", "material": "glass", "price": 178.22}
+{"barcode": "8523037620901", "category": "Games", "product_name": "Wooden Chicken", "color": "LightSalmon", "material": "plastic", "price": 896.42}
+{"barcode": "7484540118082", "category": "Grocery", "product_name": "Handcrafted Concrete Mouse", "color": "MediumSpringGreen", "material": "rubber", "price": 296.48}
+{"barcode": "8330166418862", "category": "Tools", "product_name": "Soft Chicken", "color": "GoldenRod", "material": "metal", "price": 419.77}
+{"barcode": "5628333932079", "category": "Tools", "product_name": "Pizza", "color": "Magenta", "material": "plastic", "price": 527.38}
+{"barcode": "3894891721529", "category": "Grocery", "product_name": "Steel Towels", "color": "Pink", "material": "metal", "price": 445.99}
+{"barcode": "3009959898918", "category": "Industrial", "product_name": "Rustic Rubber Towels", "color": "LightGray", "material": "metal", "price": 150.11}
+{"barcode": "4386093635876", "category": "Clothing", "product_name": "Metal Pizza", "color": "Orange", "material": "glass", "price": 899.17}
+{"barcode": "7641021716247", "category": "Kids", "product_name": "Pants", "color": "Gold", "material": "rubber", "price": 759.84}
+{"barcode": "8559707482449", "category": "Shoes", "product_name": "Tasty Soft Chair", "color": "Coral", "material": "metal", "price": 755.76}
+{"barcode": "4995553953452", "category": "Sports", "product_name": "Concrete Keyboard", "color": "Teal", "material": "rubber", "price": 269.69}
+{"barcode": "2676057267994", "category": "Beauty", "product_name": "Mouse", "color": "DarkSalmon", "material": "glass", "price": 935.33}
+{"barcode": "4077158019273", "category": "Tools", "product_name": "Pizza", "color": "Violet", "material": "plastic", "price": 471.47}
+{"barcode": "8872719802747", "category": "Jewelery", "product_name": "Sleek Granite Chair", "color": "DarkSeaGreen", "material": "glass", "price": 521.75}
+{"barcode": "4118058165216", "category": "Games", "product_name": "Handmade Fresh Car", "color": "CornflowerBlue", "material": "metal", "price": 190.17}
+{"barcode": "5552416379447", "category": "Games", "product_name": "Handmade Computer", "color": "Wheat", "material": "plastic", "price": 649.09}
+{"barcode": "0265540161295", "category": "Tools", "product_name": "Small Gloves", "color": "DeepPink", "material": "plastic", "price": 297.51}
+{"barcode": "2377938009244", "category": "Industrial", "product_name": "Used Plastic Soap", "color": "Indigo", "material": "plastic", "price": 408.23}
+{"barcode": "2541545490317", "category": "Computers", "product_name": "Generic Soft Shoes", "color": "Bisque", "material": "metal", "price": 456.4}
+{"barcode": "2184301674653", "category": "Industrial", "product_name": "Wooden Salad", "color": "Moccasin", "material": "glass", "price": 837.12}
+{"barcode": "3903814842859", "category": "Outdoors", "product_name": "Gorgeous Table", "color": "Ivory", "material": "rubber", "price": 823.4}
+{"barcode": "6755732298907", "category": "Grocery", "product_name": "Refined Towels", "color": "Azure", "material": "metal", "price": 549.77}
+{"barcode": "3640110602595", "category": "Garden", "product_name": "Shirt", "color": "RoyalBlue", "material": "rubber", "price": 667.27}
+{"barcode": "8880523481294", "category": "Baby", "product_name": "Wooden Cheese", "color": "LightCoral", "material": "glass", "price": 929.62}
+{"barcode": "3683125079136", "category": "Clothing", "product_name": "Computer", "color": "RosyBrown", "material": "metal", "price": 223.56}
+{"barcode": "1950084092967", "category": "Baby", "product_name": "Keyboard", "color": "Peru", "material": "plastic", "price": 1.29}
+{"barcode": "9764798871914", "category": "Industrial", "product_name": "Shirt", "color": "DarkGreen", "material": "metal", "price": 235.67}
+{"barcode": "6329929042309", "category": "Toys", "product_name": "Granite Bike", "color": "DarkViolet", "material": "metal", "price": 525.17}
+{"barcode": "9561841603542", "category": "Sports", "product_name": "Cotton Computer", "color": "Maroon", "material": "plastic", "price": 370.83}
+{"barcode": "7062102146652", "category": "Shoes", "product_name": "Used Bike", "color": "LightSteelBlue", "material": "metal", "price": 258.44}
+{"barcode": "1074532770907", "category": "Outdoors", "product_name": "Rustic Shirt", "color": "Tomato", "material": "glass", "price": 964.95}
+{"barcode": "9474517640089", "category": "Beauty", "product_name": "New Cotton Car", "color": "AliceBlue", "material": "rubber", "price": 293.39}
+{"barcode": "1210413712554", "category": "Clothing", "product_name": "Used Steel Keyboard", "color": "DarkOliveGreen", "material": "metal", "price": 218.21}
+{"barcode": "0631433097611", "category": "Toys", "product_name": "Incredible Cotton Chair", "color": "Aquamarine", "material": "glass", "price": 473.44}
+{"barcode": "2305670080283", "category": "Kids", "product_name": "Fish", "color": "Lime", "material": "plastic", "price": 923.45}
+{"barcode": "8511283730123", "category": "Health", "product_name": "Rustic Car", "color": "FireBrick", "material": "metal", "price": 383.45}
+{"barcode": "6018662475146", "category": "Clothing", "product_name": "Soft Chicken", "color": "SlateGray", "material": "metal", "price": 342.47}
+{"barcode": "1085692872752", "category": "Baby", "product_name": "Car", "color": "Lavender", "material": "plastic", "price": 288.82}
+{"barcode": "8206962627435", "category": "Books", "product_name": "Tasty Plastic Towels", "color": "PowderBlue", "material": "metal", "price": 88.15}
+{"barcode": "4961517080328", "category": "Movies", "product_name": "Mouse", "color": "DeepPink", "material": "metal", "price": 263.55}
+{"barcode": "8766092275802", "category": "Movies", "product_name": "Frozen Shirt", "color": "LightSalmon", "material": "glass", "price": 345.1}
+{"barcode": "3559161354073", "category": "Shoes", "product_name": "Awesome Bacon", "color": "Magenta", "material": "plastic", "price": 183.12}
+{"barcode": "7693663618601", "category": "Baby", "product_name": "Small Wooden Towels", "color": "SeaGreen", "material": "plastic", "price": 177.39}
+{"barcode": "0271404160120", "category": "Tools", "product_name": "Awesome Wooden Table", "color": "MintCream", "material": "plastic", "price": 109.4}
+{"barcode": "2199418407940", "category": "Clothing", "product_name": "Metal Gloves", "color": "BlueViolet", "material": "metal", "price": 333.35}
+{"barcode": "0541908430976", "category": "Movies", "product_name": "Sleek Soft Chips", "color": "PeachPuff", "material": "glass", "price": 785.16}
+{"barcode": "2989493504531", "category": "Jewelery", "product_name": "Chips", "color": "Bisque", "material": "rubber", "price": 182.52}
+{"barcode": "5658393051694", "category": "Outdoors", "product_name": "Rustic Pants", "color": "MistyRose", "material": "glass", "price": 61.11}
+{"barcode": "3511098149894", "category": "Jewelery", "product_name": "Ergonomic Pants", "color": "Magenta", "material": "glass", "price": 105.98}
+{"barcode": "6205928366373", "category": "Industrial", "product_name": "Cotton Mouse", "color": "MediumAquaMarine", "material": "plastic", "price": 153.14}
+{"barcode": "5498906808342", "category": "Books", "product_name": "Bacon", "color": "Tomato", "material": "glass", "price": 102.93}
+{"barcode": "3191120139118", "category": "Toys", "product_name": "Bike", "color": "Beige", "material": "plastic", "price": 940.02}
+{"barcode": "0136607045240", "category": "Electronics", "product_name": "Handmade Cotton Sausages", "color": "GreenYellow", "material": "rubber", "price": 179.8}
+{"barcode": "4626968016189", "category": "Toys", "product_name": "Handmade Ball", "color": "PaleGoldenRod", "material": "plastic", "price": 432.53}
+{"barcode": "3266362645762", "category": "Shoes", "product_name": "Metal Ball", "color": "DarkOrchid", "material": "plastic", "price": 79.57}
+{"barcode": "3890967931151", "category": "Electronics", "product_name": "Incredible Wooden Gloves", "color": "DarkCyan", "material": "glass", "price": 675.8}
+{"barcode": "7276210456170", "category": "Health", "product_name": "Intelligent Gloves", "color": "CadetBlue", "material": "metal", "price": 250.43}
+{"barcode": "0139139515045", "category": "Jewelery", "product_name": "Fantastic Concrete Salad", "color": "Cornsilk", "material": "metal", "price": 79.39}
+{"barcode": "7688900992460", "category": "Jewelery", "product_name": "Tuna", "color": "DarkBlue", "material": "glass", "price": 825.69}
+{"barcode": "2982761187405", "category": "Health", "product_name": "Fantastic Soap", "color": "SlateBlue", "material": "rubber", "price": 472.78}
+{"barcode": "2263722637345", "category": "Industrial", "product_name": "Gorgeous Mouse", "color": "Gray", "material": "glass", "price": 2.27}
+{"barcode": "5424645263005", "category": "Shoes", "product_name": "For repair Cotton Salad", "color": "MediumSeaGreen", "material": "glass", "price": 149.47}
+{"barcode": "5797410635353", "category": "Sports", "product_name": "Sleek Granite Pants", "color": "DodgerBlue", "material": "glass", "price": 956.05}
+{"barcode": "1262095908060", "category": "Toys", "product_name": "Fantastic Frozen Pants", "color": "LightSlateGray", "material": "glass", "price": 665.36}
+{"barcode": "5499860122246", "category": "Jewelery", "product_name": "Rubber Keyboard", "color": "Coral", "material": "plastic", "price": 425.14}
+{"barcode": "8709657599661", "category": "Games", "product_name": "Hat", "color": "DimGray", "material": "glass", "price": 839.04}
+{"barcode": "4520545522622", "category": "Movies", "product_name": "Incredible Fresh Chips", "color": "DarkOrchid", "material": "plastic", "price": 169.1}
+{"barcode": "0415092248573", "category": "Outdoors", "product_name": "Gently Used Rubber Sausages", "color": "MediumBlue", "material": "rubber", "price": 427.18}
+{"barcode": "2610579592097", "category": "Kids", "product_name": "Metal Bike", "color": "Gold", "material": "metal", "price": 564.52}
+{"barcode": "4843352876833", "category": "Clothing", "product_name": "Used Towels", "color": "GreenYellow", "material": "metal", "price": 699.54}
+{"barcode": "8861190935235", "category": "Automotive", "product_name": "Ergonomic Bacon", "color": "SpringGreen", "material": "rubber", "price": 316.94}
+{"barcode": "1336958831311", "category": "Toys", "product_name": "Metal Salad", "color": "Khaki", "material": "rubber", "price": 872.08}
+{"barcode": "7911251859190", "category": "Baby", "product_name": "Gloves", "color": "SandyBrown", "material": "metal", "price": 420.87}
+{"barcode": "5038713954209", "category": "Sports", "product_name": "Fantastic Bike", "color": "MintCream", "material": "rubber", "price": 98.26}
+{"barcode": "2100252141839", "category": "Sports", "product_name": "Gently Used Granite Shoes", "color": "NavajoWhite", "material": "glass", "price": 625.0}
+{"barcode": "7330175027094", "category": "Tools", "product_name": "Plastic Salad", "color": "LightGoldenRodYellow", "material": "rubber", "price": 411.5}
+{"barcode": "0714196505491", "category": "Music", "product_name": "Table", "color": "LightSlateGray", "material": "metal", "price": 696.79}
+{"barcode": "4216512689237", "category": "Books", "product_name": "Cotton Pizza", "color": "LightBlue", "material": "glass", "price": 485.73}
+{"barcode": "9750201515926", "category": "Beauty", "product_name": "Pants", "color": "Salmon", "material": "plastic", "price": 720.09}
+{"barcode": "4077592510299", "category": "Baby", "product_name": "Small Keyboard", "color": "Yellow", "material": "metal", "price": 617.96}
+{"barcode": "5644567988033", "category": "Grocery", "product_name": "Frozen Hat", "color": "Orange", "material": "plastic", "price": 876.8}
+{"barcode": "4749749918448", "category": "Tools", "product_name": "Practical Pants", "color": "OldLace", "material": "glass", "price": 735.71}
+{"barcode": "1337838772557", "category": "Toys", "product_name": "Fresh Mouse", "color": "Peru", "material": "metal", "price": 38.31}
+{"barcode": "9137068714189", "category": "Automotive", "product_name": "Ball", "color": "Teal", "material": "rubber", "price": 95.91}
+{"barcode": "9668257684292", "category": "Tools", "product_name": "Plastic Chips", "color": "Gold", "material": "metal", "price": 100.08}
+{"barcode": "4054271831395", "category": "Beauty", "product_name": "Salad", "color": "DarkSeaGreen", "material": "plastic", "price": 986.12}
+{"barcode": "1364177730030", "category": "Outdoors", "product_name": "Concrete Chips", "color": "LightBlue", "material": "metal", "price": 709.48}
+{"barcode": "1537359934223", "category": "Electronics", "product_name": "Soft Shoes", "color": "FireBrick", "material": "plastic", "price": 414.18}
+{"barcode": "0331132220111", "category": "Health", "product_name": "Unbranded Gloves", "color": "HoneyDew", "material": "plastic", "price": 869.87}
+{"barcode": "8342762126775", "category": "Health", "product_name": "Sleek Rubber Keyboard", "color": "Maroon", "material": "plastic", "price": 502.78}
+{"barcode": "7438569068798", "category": "Computers", "product_name": "Fish", "color": "PaleGoldenRod", "material": "plastic", "price": 79.14}
+{"barcode": "8367616901797", "category": "Home", "product_name": "Ergonomic Sausages", "color": "OldLace", "material": "plastic", "price": 429.36}
+{"barcode": "5653358846933", "category": "Industrial", "product_name": "Handcrafted Car", "color": "Beige", "material": "rubber", "price": 533.58}
+{"barcode": "7836271879990", "category": "Computers", "product_name": "Granite Hat", "color": "RosyBrown", "material": "metal", "price": 541.5}
+{"barcode": "8216853323032", "category": "Sports", "product_name": "Bike", "color": "Cornsilk", "material": "metal", "price": 338.41}
+{"barcode": "4192945986832", "category": "Tools", "product_name": "Concrete Keyboard", "color": "MediumSlateBlue", "material": "metal", "price": 653.33}
+{"barcode": "8744813927629", "category": "Toys", "product_name": "Unbranded Wooden Gloves", "color": "CornflowerBlue", "material": "plastic", "price": 167.64}
+{"barcode": "8325377706273", "category": "Industrial", "product_name": "Generic Fish", "color": "HotPink", "material": "plastic", "price": 433.48}
+{"barcode": "0813102793318", "category": "Clothing", "product_name": "Licensed Frozen Chicken", "color": "Beige", "material": "rubber", "price": 456.16}
+{"barcode": "9563562815891", "category": "Computers", "product_name": "Rustic Bacon", "color": "Violet", "material": "rubber", "price": 538.69}
+{"barcode": "8374953392454", "category": "Automotive", "product_name": "Practical Concrete Soap", "color": "Aqua", "material": "glass", "price": 435.0}
+{"barcode": "0853558488208", "category": "Home", "product_name": "Fantastic Gloves", "color": "DarkSalmon", "material": "plastic", "price": 499.23}
+{"barcode": "1718648880432", "category": "Jewelery", "product_name": "Awesome Rubber Pants", "color": "PaleGreen", "material": "plastic", "price": 221.77}
+{"barcode": "7301042210529", "category": "Sports", "product_name": "Mouse", "color": "SteelBlue", "material": "metal", "price": 921.84}
+{"barcode": "2112475358437", "category": "Garden", "product_name": "Ergonomic Plastic Shoes", "color": "Aquamarine", "material": "plastic", "price": 523.76}
+{"barcode": "0300189997642", "category": "Jewelery", "product_name": "Small Fresh Car", "color": "PeachPuff", "material": "plastic", "price": 954.07}
+{"barcode": "5578688112872", "category": "Health", "product_name": "For repair Chicken", "color": "CadetBlue", "material": "rubber", "price": 125.54}
+{"barcode": "2853585997153", "category": "Health", "product_name": "Steel Sausages", "color": "Aqua", "material": "plastic", "price": 176.8}
+{"barcode": "7761971452818", "category": "Garden", "product_name": "Intelligent Granite Fish", "color": "Gainsboro", "material": "plastic", "price": 616.78}
+{"barcode": "2561371396089", "category": "Games", "product_name": "Cheese", "color": "Cyan", "material": "plastic", "price": 757.58}
+{"barcode": "9717799979790", "category": "Grocery", "product_name": "Handmade Cheese", "color": "RosyBrown", "material": "plastic", "price": 866.49}
+{"barcode": "1654790750301", "category": "Music", "product_name": "Steel Mouse", "color": "HotPink", "material": "rubber", "price": 901.88}
+{"barcode": "1340930373157", "category": "Outdoors", "product_name": "Soft Pizza", "color": "PaleGreen", "material": "plastic", "price": 422.37}
+{"barcode": "1133257481090", "category": "Health", "product_name": "Incredible Shirt", "color": "DarkSlateBlue", "material": "rubber", "price": 509.47}
+{"barcode": "5537597328149", "category": "Garden", "product_name": "Soft Towels", "color": "YellowGreen", "material": "plastic", "price": 722.13}
+{"barcode": "8416679913749", "category": "Shoes", "product_name": "Intelligent Soft Table", "color": "BlueViolet", "material": "metal", "price": 688.94}
+{"barcode": "2521169087216", "category": "Kids", "product_name": "Fantastic Table", "color": "LightGray", "material": "plastic", "price": 684.38}
+{"barcode": "8167418898482", "category": "Kids", "product_name": "Mouse", "color": "Ivory", "material": "rubber", "price": 905.06}
+{"barcode": "1087517715435", "category": "Kids", "product_name": "New Frozen Keyboard", "color": "BlanchedAlmond", "material": "plastic", "price": 780.96}
+{"barcode": "5340009756122", "category": "Electronics", "product_name": "Concrete Bike", "color": "LightGoldenRodYellow", "material": "metal", "price": 534.58}
+{"barcode": "3476749061942", "category": "Electronics", "product_name": "Intelligent Granite Tuna", "color": "PaleVioletRed", "material": "glass", "price": 147.52}
+{"barcode": "6473553213571", "category": "Garden", "product_name": "Chips", "color": "Orchid", "material": "metal", "price": 388.24}
+{"barcode": "0949256636444", "category": "Computers", "product_name": "For repair Plastic Keyboard", "color": "PeachPuff", "material": "plastic", "price": 606.59}
+{"barcode": "6287823894878", "category": "Automotive", "product_name": "Rustic Fresh Pizza", "color": "DarkOrchid", "material": "plastic", "price": 227.49}
+{"barcode": "4407096737739", "category": "Tools", "product_name": "Soft Table", "color": "Silver", "material": "metal", "price": 336.43}
+{"barcode": "2446769901093", "category": "Beauty", "product_name": "Cheese", "color": "SlateGray", "material": "glass", "price": 387.28}
+{"barcode": "1270887965528", "category": "Baby", "product_name": "Ergonomic Rubber Chair", "color": "DarkOrange", "material": "glass", "price": 102.9}
+{"barcode": "5451717729763", "category": "Movies", "product_name": "Plastic Ball", "color": "DarkOrchid", "material": "plastic", "price": 603.96}
+{"barcode": "0228054687262", "category": "Movies", "product_name": "For repair Soft Car", "color": "DarkSlateBlue", "material": "plastic", "price": 141.68}
+{"barcode": "4621216156686", "category": "Home", "product_name": "Concrete Tuna", "color": "SandyBrown", "material": "glass", "price": 656.6}
+{"barcode": "2029370453207", "category": "Computers", "product_name": "Used Granite Mouse", "color": "SpringGreen", "material": "glass", "price": 294.33}
+{"barcode": "4561886040741", "category": "Industrial", "product_name": "Handmade Chips", "color": "Lime", "material": "glass", "price": 150.75}
+{"barcode": "4261868574744", "category": "Books", "product_name": "Bike", "color": "DeepPink", "material": "metal", "price": 830.36}
+{"barcode": "0149665587775", "category": "Sports", "product_name": "Refined Wooden Pizza", "color": "Magenta", "material": "rubber", "price": 845.41}
+{"barcode": "2718315224797", "category": "Electronics", "product_name": "Plastic Tuna", "color": "Maroon", "material": "plastic", "price": 305.47}
+{"barcode": "5466677155873", "category": "Toys", "product_name": "Cotton Mouse", "color": "CornflowerBlue", "material": "metal", "price": 292.41}
+{"barcode": "2559277727090", "category": "Home", "product_name": "Pants", "color": "MediumOrchid", "material": "rubber", "price": 897.84}
+{"barcode": "7529830260574", "category": "Movies", "product_name": "Ergonomic Cotton Pizza", "color": "DeepSkyBlue", "material": "metal", "price": 535.87}
+{"barcode": "9294851742252", "category": "Home", "product_name": "Car", "color": "Cyan", "material": "glass", "price": 817.24}
+{"barcode": "7090773880551", "category": "Tools", "product_name": "Cotton Chips", "color": "DarkMagenta", "material": "metal", "price": 741.37}
+{"barcode": "0176851661254", "category": "Industrial", "product_name": "For repair Plastic Gloves", "color": "PaleTurquoise", "material": "metal", "price": 905.12}
+{"barcode": "2145211638739", "category": "Grocery", "product_name": "New Fresh Table", "color": "OrangeRed", "material": "rubber", "price": 782.47}
+{"barcode": "4071490249862", "category": "Clothing", "product_name": "Keyboard", "color": "DarkSalmon", "material": "metal", "price": 662.83}
+{"barcode": "1272118155739", "category": "Toys", "product_name": "Plastic Soap", "color": "PaleGoldenRod", "material": "metal", "price": 737.15}
+{"barcode": "0637868445096", "category": "Automotive", "product_name": "Bike", "color": "LightYellow", "material": "plastic", "price": 179.56}
+{"barcode": "6935377912301", "category": "Garden", "product_name": "Shoes", "color": "Lime", "material": "metal", "price": 787.33}
+{"barcode": "5343073147520", "category": "Tools", "product_name": "Incredible Table", "color": "DarkGreen", "material": "glass", "price": 288.49}
+{"barcode": "2654220919307", "category": "Books", "product_name": "Table", "color": "LightSkyBlue", "material": "metal", "price": 378.2}
+{"barcode": "5325293587348", "category": "Shoes", "product_name": "Awesome Cotton Bacon", "color": "Gainsboro", "material": "rubber", "price": 971.81}
+{"barcode": "5222564246501", "category": "Home", "product_name": "Rubber Bacon", "color": "Silver", "material": "rubber", "price": 187.33}
+{"barcode": "5398263836739", "category": "Industrial", "product_name": "Intelligent Fresh Cheese", "color": "NavajoWhite", "material": "metal", "price": 875.26}
+{"barcode": "5509093516139", "category": "Baby", "product_name": "Small Rubber Chair", "color": "DarkKhaki", "material": "glass", "price": 471.41}
+{"barcode": "8383889759453", "category": "Beauty", "product_name": "Granite Mouse", "color": "LightSeaGreen", "material": "glass", "price": 525.52}
+{"barcode": "7120318468026", "category": "Outdoors", "product_name": "Generic Metal Cheese", "color": "Thistle", "material": "metal", "price": 93.12}
+{"barcode": "9578488725988", "category": "Sports", "product_name": "Gorgeous Rubber Bike", "color": "LightSlateGray", "material": "plastic", "price": 132.47}
+{"barcode": "1239150073063", "category": "Automotive", "product_name": "Pants", "color": "NavajoWhite", "material": "glass", "price": 473.38}
+{"barcode": "5110900293497", "category": "Grocery", "product_name": "Soft Pants", "color": "Lime", "material": "plastic", "price": 760.88}
+{"barcode": "9965246907166", "category": "Movies", "product_name": "Handcrafted Fresh Mouse", "color": "PaleTurquoise", "material": "plastic", "price": 802.78}
+{"barcode": "8293570157980", "category": "Tools", "product_name": "Shoes", "color": "LightGreen", "material": "glass", "price": 148.81}
+{"barcode": "7634903530864", "category": "Sports", "product_name": "Ergonomic Shoes", "color": "MintCream", "material": "rubber", "price": 843.17}
+{"barcode": "7424534125627", "category": "Music", "product_name": "Tuna", "color": "NavajoWhite", "material": "metal", "price": 325.43}
+{"barcode": "9983063677697", "category": "Books", "product_name": "Metal Mouse", "color": "ForestGreen", "material": "glass", "price": 174.49}
+{"barcode": "6790381705802", "category": "Garden", "product_name": "Metal Gloves", "color": "Turquoise", "material": "metal", "price": 184.86}
+{"barcode": "9187218195689", "category": "Shoes", "product_name": "Sleek Rubber Tuna", "color": "DarkOrchid", "material": "rubber", "price": 709.63}
+{"barcode": "4301374214380", "category": "Industrial", "product_name": "Handmade Chair", "color": "OrangeRed", "material": "metal", "price": 426.53}
+{"barcode": "0823464562361", "category": "Garden", "product_name": "Used Soft Chair", "color": "Navy", "material": "plastic", "price": 617.23}
+{"barcode": "0011671326306", "category": "Clothing", "product_name": "Rubber Sausages", "color": "MediumVioletRed", "material": "glass", "price": 519.96}
+{"barcode": "1414143168937", "category": "Automotive", "product_name": "Pizza", "color": "DarkGreen", "material": "plastic", "price": 712.14}
+{"barcode": "6496537782412", "category": "Health", "product_name": "Tuna", "color": "DarkGoldenRod", "material": "metal", "price": 931.32}
+{"barcode": "7529856335645", "category": "Beauty", "product_name": "Small Salad", "color": "CadetBlue", "material": "plastic", "price": 262.52}
+{"barcode": "6999916671371", "category": "Outdoors", "product_name": "Awesome Table", "color": "Maroon", "material": "rubber", "price": 240.13}
+{"barcode": "2076634754204", "category": "Kids", "product_name": "Generic Keyboard", "color": "LavenderBlush", "material": "metal", "price": 45.58}
+{"barcode": "9697360126641", "category": "Computers", "product_name": "Computer", "color": "Olive", "material": "plastic", "price": 27.96}
+{"barcode": "0378268812346", "category": "Shoes", "product_name": "Pants", "color": "Thistle", "material": "glass", "price": 832.36}
+{"barcode": "3705684643839", "category": "Health", "product_name": "Granite Soap", "color": "GoldenRod", "material": "metal", "price": 776.49}
+{"barcode": "3272871074801", "category": "Jewelery", "product_name": "Frozen Fish", "color": "Bisque", "material": "glass", "price": 246.21}
+{"barcode": "5319629434246", "category": "Kids", "product_name": "Chicken", "color": "CadetBlue", "material": "rubber", "price": 852.4}
+{"barcode": "3204025378411", "category": "Books", "product_name": "Chair", "color": "Coral", "material": "rubber", "price": 982.8}
+{"barcode": "2952240928621", "category": "Music", "product_name": "Steel Gloves", "color": "CornflowerBlue", "material": "rubber", "price": 683.59}
+{"barcode": "8761687277841", "category": "Toys", "product_name": "Table", "color": "WhiteSmoke", "material": "glass", "price": 414.85}
+{"barcode": "2302991903055", "category": "Automotive", "product_name": "Concrete Computer", "color": "DarkViolet", "material": "metal", "price": 749.6}
+{"barcode": "3260013591217", "category": "Clothing", "product_name": "Soft Hat", "color": "MintCream", "material": "glass", "price": 509.13}
+{"barcode": "8675126135985", "category": "Kids", "product_name": "Intelligent Rubber Mouse", "color": "LightSlateGray", "material": "glass", "price": 282.14}
+{"barcode": "4474629127121", "category": "Home", "product_name": "Licensed Rubber Mouse", "color": "LightCyan", "material": "plastic", "price": 355.93}
+{"barcode": "3973356375870", "category": "Industrial", "product_name": "Metal Bike", "color": "Fuchsia", "material": "rubber", "price": 639.79}
+{"barcode": "8742451780965", "category": "Sports", "product_name": "Table", "color": "PaleGreen", "material": "rubber", "price": 113.7}
+{"barcode": "6564634818775", "category": "Kids", "product_name": "Tasty Chips", "color": "LightSalmon", "material": "glass", "price": 967.74}
+{"barcode": "3426576896095", "category": "Electronics", "product_name": "Rubber Ball", "color": "LawnGreen", "material": "rubber", "price": 191.18}
+{"barcode": "5954631460595", "category": "Computers", "product_name": "Incredible Plastic Table", "color": "AliceBlue", "material": "rubber", "price": 354.73}
+{"barcode": "0777878414177", "category": "Music", "product_name": "Generic Concrete Car", "color": "Aquamarine", "material": "rubber", "price": 823.68}
+{"barcode": "3909388642475", "category": "Industrial", "product_name": "Generic Steel Chair", "color": "MediumBlue", "material": "metal", "price": 795.3}
+{"barcode": "6944194091144", "category": "Electronics", "product_name": "Granite Table", "color": "DarkOrchid", "material": "rubber", "price": 37.51}
+{"barcode": "9823192992189", "category": "Computers", "product_name": "Awesome Pizza", "color": "Purple", "material": "metal", "price": 679.29}
+{"barcode": "0218100444932", "category": "Automotive", "product_name": "Gorgeous Ball", "color": "DarkTurquoise", "material": "plastic", "price": 492.99}
+{"barcode": "4001042842241", "category": "Books", "product_name": "Pizza", "color": "LightSteelBlue", "material": "glass", "price": 472.46}
+{"barcode": "2962466532861", "category": "Computers", "product_name": "Handcrafted Pizza", "color": "DarkSeaGreen", "material": "plastic", "price": 671.71}
+{"barcode": "9101146731955", "category": "Jewelery", "product_name": "Hat", "color": "DimGray", "material": "plastic", "price": 369.92}
+{"barcode": "4388749385821", "category": "Kids", "product_name": "Incredible Granite Bacon", "color": "Indigo", "material": "glass", "price": 143.67}
+{"barcode": "9636750890670", "category": "Home", "product_name": "Gently Used Fresh Hat", "color": "Chocolate", "material": "glass", "price": 254.81}
+{"barcode": "4434291827415", "category": "Toys", "product_name": "Cotton Pizza", "color": "Chocolate", "material": "metal", "price": 845.26}
+{"barcode": "9393749798385", "category": "Books", "product_name": "Computer", "color": "Fuchsia", "material": "metal", "price": 94.78}
+{"barcode": "3348708942350", "category": "Grocery", "product_name": "Rubber Soap", "color": "Thistle", "material": "rubber", "price": 844.3}
+{"barcode": "7219562867737", "category": "Clothing", "product_name": "New Fresh Car", "color": "LawnGreen", "material": "metal", "price": 322.13}
+{"barcode": "7948133276202", "category": "Grocery", "product_name": "Chicken", "color": "Sienna", "material": "metal", "price": 741.09}
+{"barcode": "9446143226920", "category": "Movies", "product_name": "Frozen Computer", "color": "DarkSlateGray", "material": "rubber", "price": 410.23}
+{"barcode": "0736104523175", "category": "Garden", "product_name": "Fresh Computer", "color": "CadetBlue", "material": "glass", "price": 72.15}
+{"barcode": "0531534932777", "category": "Toys", "product_name": "Wooden Sausages", "color": "Tomato", "material": "metal", "price": 526.47}
+{"barcode": "7078947685362", "category": "Garden", "product_name": "Incredible Plastic Soap", "color": "PaleGreen", "material": "rubber", "price": 953.86}
+{"barcode": "8834902075482", "category": "Shoes", "product_name": "Rustic Granite Cheese", "color": "Violet", "material": "metal", "price": 844.89}
+{"barcode": "1353238564547", "category": "Tools", "product_name": "Fresh Chair", "color": "LightPink", "material": "metal", "price": 232.79}
+{"barcode": "1320623935473", "category": "Industrial", "product_name": "Generic Salad", "color": "MediumSeaGreen", "material": "glass", "price": 483.57}
+{"barcode": "5405381720175", "category": "Tools", "product_name": "Ergonomic Concrete Hat", "color": "MediumBlue", "material": "plastic", "price": 666.22}
+{"barcode": "7855995351506", "category": "Baby", "product_name": "Chair", "color": "DarkGreen", "material": "glass", "price": 296.47}
+{"barcode": "9119814643127", "category": "Outdoors", "product_name": "Practical Cheese", "color": "MediumSpringGreen", "material": "plastic", "price": 36.07}
+{"barcode": "7108307816980", "category": "Industrial", "product_name": "Chips", "color": "PowderBlue", "material": "glass", "price": 562.03}
+{"barcode": "0976166944680", "category": "Shoes", "product_name": "Plastic Keyboard", "color": "Chartreuse", "material": "plastic", "price": 486.57}
+{"barcode": "4659980064470", "category": "Shoes", "product_name": "Rubber Keyboard", "color": "DarkOrange", "material": "metal", "price": 884.19}
+{"barcode": "9611559014557", "category": "Industrial", "product_name": "Rustic Car", "color": "Coral", "material": "rubber", "price": 959.43}
+{"barcode": "1732462422296", "category": "Games", "product_name": "Cotton Salad", "color": "GreenYellow", "material": "plastic", "price": 839.47}
+{"barcode": "8930398013585", "category": "Beauty", "product_name": "Frozen Chips", "color": "Magenta", "material": "metal", "price": 538.55}
+{"barcode": "2870640655919", "category": "Music", "product_name": "Unbranded Frozen Table", "color": "DarkSeaGreen", "material": "glass", "price": 373.19}
+{"barcode": "2706075805721", "category": "Outdoors", "product_name": "Fish", "color": "MediumBlue", "material": "metal", "price": 522.87}
+{"barcode": "8661235540697", "category": "Outdoors", "product_name": "Fresh Computer", "color": "Teal", "material": "glass", "price": 168.12}
+{"barcode": "7913407999279", "category": "Beauty", "product_name": "Awesome Pizza", "color": "DarkSalmon", "material": "glass", "price": 949.45}
+{"barcode": "1431180986317", "category": "Toys", "product_name": "Sausages", "color": "Gainsboro", "material": "glass", "price": 790.03}
+{"barcode": "2383664743451", "category": "Automotive", "product_name": "Incredible Wooden Sausages", "color": "MediumAquaMarine", "material": "plastic", "price": 913.82}
+{"barcode": "5140587647948", "category": "Music", "product_name": "Computer", "color": "MediumAquaMarine", "material": "metal", "price": 68.85}
+{"barcode": "9977835772529", "category": "Games", "product_name": "Fantastic Gloves", "color": "Beige", "material": "plastic", "price": 249.06}
+{"barcode": "4688093686736", "category": "Health", "product_name": "Licensed Chicken", "color": "PaleTurquoise", "material": "glass", "price": 93.34}
+{"barcode": "7375419689249", "category": "Home", "product_name": "Table", "color": "NavajoWhite", "material": "glass", "price": 881.41}
+{"barcode": "6450040648153", "category": "Automotive", "product_name": "Soft Chicken", "color": "FloralWhite", "material": "metal", "price": 637.85}
+{"barcode": "4662415191139", "category": "Outdoors", "product_name": "For repair Gloves", "color": "MediumPurple", "material": "rubber", "price": 76.73}
+{"barcode": "4326691322174", "category": "Kids", "product_name": "Chair", "color": "Yellow", "material": "plastic", "price": 633.27}
+{"barcode": "0863223438667", "category": "Sports", "product_name": "Gorgeous Steel Computer", "color": "MediumPurple", "material": "plastic", "price": 610.26}
+{"barcode": "3776897275292", "category": "Shoes", "product_name": "Soft Tuna", "color": "DarkSalmon", "material": "glass", "price": 185.09}
+{"barcode": "2930475190099", "category": "Beauty", "product_name": "Pants", "color": "Chartreuse", "material": "rubber", "price": 94.78}
+{"barcode": "9484602521049", "category": "Computers", "product_name": "Granite Salad", "color": "Plum", "material": "plastic", "price": 755.11}
+{"barcode": "6699941348575", "category": "Electronics", "product_name": "Handcrafted Wooden Hat", "color": "DarkGray", "material": "metal", "price": 192.02}
+{"barcode": "1500225093775", "category": "Computers", "product_name": "Generic Steel Towels", "color": "Azure", "material": "rubber", "price": 303.4}
+{"barcode": "4463075563669", "category": "Tools", "product_name": "Cheese", "color": "GoldenRod", "material": "glass", "price": 634.3}
+{"barcode": "5588114787185", "category": "Games", "product_name": "Metal Ball", "color": "CadetBlue", "material": "metal", "price": 176.27}
+{"barcode": "9194838725882", "category": "Books", "product_name": "Gently Used Granite Table", "color": "Orchid", "material": "plastic", "price": 159.45}
+{"barcode": "7311415516745", "category": "Toys", "product_name": "Used Chips", "color": "MediumTurquoise", "material": "rubber", "price": 729.1}
+{"barcode": "0232284992430", "category": "Health", "product_name": "Computer", "color": "Chartreuse", "material": "glass", "price": 633.92}
+{"barcode": "0200929513227", "category": "Home", "product_name": "Pants", "color": "DarkGreen", "material": "glass", "price": 71.66}
+{"barcode": "1240948920452", "category": "Clothing", "product_name": "Practical Mouse", "color": "DarkSalmon", "material": "plastic", "price": 277.69}
+{"barcode": "9074605392786", "category": "Books", "product_name": "Intelligent Table", "color": "GreenYellow", "material": "metal", "price": 59.37}
+{"barcode": "9356461342526", "category": "Clothing", "product_name": "Granite Chicken", "color": "DarkSalmon", "material": "plastic", "price": 144.53}
+{"barcode": "4095519245611", "category": "Music", "product_name": "Rubber Keyboard", "color": "Chocolate", "material": "metal", "price": 149.84}
+{"barcode": "6673301129547", "category": "Grocery", "product_name": "Unbranded Shoes", "color": "OldLace", "material": "metal", "price": 357.93}
+{"barcode": "9438577342567", "category": "Toys", "product_name": "Shoes", "color": "SaddleBrown", "material": "glass", "price": 817.97}
+{"barcode": "6690140973759", "category": "Beauty", "product_name": "Used Soap", "color": "NavajoWhite", "material": "glass", "price": 271.63}
+{"barcode": "3542785624202", "category": "Baby", "product_name": "Intelligent Shoes", "color": "LightSeaGreen", "material": "rubber", "price": 685.35}
+{"barcode": "6071603914791", "category": "Grocery", "product_name": "Cotton Hat", "color": "SteelBlue", "material": "plastic", "price": 295.88}
+{"barcode": "2371167449758", "category": "Tools", "product_name": "Ergonomic Plastic Salad", "color": "LightGray", "material": "plastic", "price": 436.21}
+{"barcode": "5942635055022", "category": "Toys", "product_name": "Generic Soft Keyboard", "color": "DarkOrchid", "material": "plastic", "price": 830.85}
+{"barcode": "9706790258355", "category": "Kids", "product_name": "Gently Used Plastic Car", "color": "MediumAquaMarine", "material": "metal", "price": 100.68}
+{"barcode": "5172776659258", "category": "Sports", "product_name": "Awesome Mouse", "color": "Cyan", "material": "glass", "price": 640.75}
+{"barcode": "0818674241151", "category": "Music", "product_name": "Pants", "color": "DarkCyan", "material": "metal", "price": 718.49}
+{"barcode": "9093313510022", "category": "Beauty", "product_name": "Handcrafted Pants", "color": "DarkOrchid", "material": "metal", "price": 876.55}
+{"barcode": "1526261417610", "category": "Shoes", "product_name": "Fantastic Hat", "color": "MediumSlateBlue", "material": "plastic", "price": 620.88}
+{"barcode": "1189487782049", "category": "Tools", "product_name": "Fresh Sausages", "color": "PaleGreen", "material": "metal", "price": 620.71}
+{"barcode": "1637060359374", "category": "Toys", "product_name": "Refined Cotton Car", "color": "PaleVioletRed", "material": "metal", "price": 550.97}
+{"barcode": "5411726400480", "category": "Jewelery", "product_name": "Towels", "color": "Violet", "material": "metal", "price": 690.65}
+{"barcode": "7314424878705", "category": "Jewelery", "product_name": "Fresh Shoes", "color": "Brown", "material": "glass", "price": 599.15}
+{"barcode": "3539768260557", "category": "Baby", "product_name": "Cotton Fish", "color": "Orange", "material": "plastic", "price": 235.57}
+{"barcode": "4453256220283", "category": "Sports", "product_name": "New Towels", "color": "Tomato", "material": "plastic", "price": 733.24}
+{"barcode": "1840323047578", "category": "Shoes", "product_name": "Frozen Pants", "color": "White", "material": "plastic", "price": 816.95}
+{"barcode": "6757535240787", "category": "Automotive", "product_name": "Table", "color": "DarkSeaGreen", "material": "rubber", "price": 840.11}
+{"barcode": "2638546284813", "category": "Outdoors", "product_name": "Used Shirt", "color": "Thistle", "material": "glass", "price": 178.32}
+{"barcode": "4204169133852", "category": "Grocery", "product_name": "Fish", "color": "Ivory", "material": "plastic", "price": 970.01}
+{"barcode": "4598600225009", "category": "Computers", "product_name": "Pants", "color": "LawnGreen", "material": "rubber", "price": 840.92}
+{"barcode": "7595626842873", "category": "Home", "product_name": "Sleek Fish", "color": "Pink", "material": "rubber", "price": 939.22}
+{"barcode": "3842933393883", "category": "Health", "product_name": "Awesome Fish", "color": "WhiteSmoke", "material": "metal", "price": 997.71}
+{"barcode": "5728132221630", "category": "Shoes", "product_name": "Granite Towels", "color": "LavenderBlush", "material": "rubber", "price": 399.4}
+{"barcode": "1488964208899", "category": "Grocery", "product_name": "Computer", "color": "PaleGoldenRod", "material": "glass", "price": 593.83}
+{"barcode": "3139476980145", "category": "Books", "product_name": "Bike", "color": "GoldenRod", "material": "glass", "price": 535.4}
+{"barcode": "2775637601576", "category": "Health", "product_name": "Ergonomic Mouse", "color": "Tomato", "material": "plastic", "price": 352.19}
+{"barcode": "4237498158982", "category": "Beauty", "product_name": "Towels", "color": "Crimson", "material": "rubber", "price": 995.0}
+{"barcode": "8069349715756", "category": "Health", "product_name": "Sleek Gloves", "color": "Magenta", "material": "rubber", "price": 124.96}
+{"barcode": "4708370502501", "category": "Grocery", "product_name": "For repair Steel Chicken", "color": "LightCoral", "material": "glass", "price": 676.02}
+{"barcode": "7149999783709", "category": "Industrial", "product_name": "Pizza", "color": "DarkViolet", "material": "plastic", "price": 267.78}
+{"barcode": "6376567953467", "category": "Beauty", "product_name": "Plastic Table", "color": "MistyRose", "material": "rubber", "price": 803.07}
+{"barcode": "6695131559424", "category": "Jewelery", "product_name": "Used Steel Pizza", "color": "Cornsilk", "material": "glass", "price": 432.03}
+{"barcode": "6482194300427", "category": "Automotive", "product_name": "Fresh Keyboard", "color": "Snow", "material": "metal", "price": 885.74}
+{"barcode": "3396932524156", "category": "Books", "product_name": "Soap", "color": "LightGray", "material": "metal", "price": 655.59}
+{"barcode": "8705976497305", "category": "Music", "product_name": "Soap", "color": "Sienna", "material": "glass", "price": 28.98}
+{"barcode": "5414852471249", "category": "Health", "product_name": "Small Bike", "color": "DarkOrange", "material": "metal", "price": 262.58}
+{"barcode": "9903481040415", "category": "Jewelery", "product_name": "Concrete Sausages", "color": "Gainsboro", "material": "rubber", "price": 525.45}
+{"barcode": "9787989128574", "category": "Jewelery", "product_name": "Soft Salad", "color": "Fuchsia", "material": "plastic", "price": 158.72}
+{"barcode": "6864346960510", "category": "Grocery", "product_name": "Small Granite Fish", "color": "Azure", "material": "rubber", "price": 326.14}
+{"barcode": "1961147404627", "category": "Beauty", "product_name": "Pants", "color": "DarkMagenta", "material": "rubber", "price": 109.9}
+{"barcode": "4037699056625", "category": "Jewelery", "product_name": "Chair", "color": "DarkGray", "material": "metal", "price": 106.66}
+{"barcode": "6124803655886", "category": "Garden", "product_name": "Soap", "color": "LightCyan", "material": "glass", "price": 500.32}
+{"barcode": "7208013118597", "category": "Sports", "product_name": "Wooden Soap", "color": "PowderBlue", "material": "metal", "price": 785.14}
+{"barcode": "2424528385223", "category": "Toys", "product_name": "For repair Tuna", "color": "SpringGreen", "material": "metal", "price": 560.25}
+{"barcode": "9296269892543", "category": "Electronics", "product_name": "Soft Bike", "color": "YellowGreen", "material": "glass", "price": 807.05}
+{"barcode": "1676302292390", "category": "Home", "product_name": "Handcrafted Granite Soap", "color": "SaddleBrown", "material": "metal", "price": 499.67}
+{"barcode": "9466913523493", "category": "Outdoors", "product_name": "For repair Plastic Bacon", "color": "Navy", "material": "glass", "price": 532.96}
+{"barcode": "2620287466504", "category": "Books", "product_name": "Unbranded Pants", "color": "Violet", "material": "rubber", "price": 604.31}
+{"barcode": "2253654417979", "category": "Clothing", "product_name": "Rustic Hat", "color": "DarkBlue", "material": "plastic", "price": 946.92}
+{"barcode": "3225631277134", "category": "Industrial", "product_name": "Rustic Salad", "color": "DimGray", "material": "plastic", "price": 228.94}
+{"barcode": "2448880719441", "category": "Sports", "product_name": "Unbranded Tuna", "color": "DarkSeaGreen", "material": "glass", "price": 885.17}
+{"barcode": "5976643471024", "category": "Home", "product_name": "Gloves", "color": "Lime", "material": "metal", "price": 44.73}
+{"barcode": "3703545740192", "category": "Automotive", "product_name": "Soap", "color": "Peru", "material": "rubber", "price": 517.18}
+{"barcode": "5233603321233", "category": "Kids", "product_name": "Car", "color": "Pink", "material": "plastic", "price": 356.3}
+{"barcode": "1908510655897", "category": "Automotive", "product_name": "Licensed Tuna", "color": "DarkOrange", "material": "plastic", "price": 212.46}
+{"barcode": "9219867282042", "category": "Garden", "product_name": "Pizza", "color": "OldLace", "material": "rubber", "price": 283.99}
+{"barcode": "4841676397157", "category": "Music", "product_name": "Bacon", "color": "LightCoral", "material": "rubber", "price": 189.87}
+{"barcode": "6591229069977", "category": "Garden", "product_name": "Mouse", "color": "Fuchsia", "material": "glass", "price": 464.79}
+{"barcode": "5631198981755", "category": "Outdoors", "product_name": "Keyboard", "color": "DeepSkyBlue", "material": "plastic", "price": 125.67}
+{"barcode": "0640323707585", "category": "Toys", "product_name": "Granite Mouse", "color": "Red", "material": "rubber", "price": 881.2}
+{"barcode": "3603095210421", "category": "Home", "product_name": "Metal Towels", "color": "CadetBlue", "material": "glass", "price": 724.89}
+{"barcode": "0572863752773", "category": "Books", "product_name": "Ergonomic Chair", "color": "MistyRose", "material": "glass", "price": 331.65}
+{"barcode": "1233104318767", "category": "Computers", "product_name": "Gently Used Gloves", "color": "DarkOrange", "material": "rubber", "price": 494.33}
+{"barcode": "2713924614632", "category": "Home", "product_name": "Frozen Pants", "color": "DarkRed", "material": "plastic", "price": 900.44}
+{"barcode": "7983785685989", "category": "Jewelery", "product_name": "Handcrafted Soft Car", "color": "Ivory", "material": "glass", "price": 164.84}
+{"barcode": "6790152990741", "category": "Home", "product_name": "Refined Bacon", "color": "Orange", "material": "glass", "price": 422.12}
+{"barcode": "5461053196549", "category": "Grocery", "product_name": "New Bacon", "color": "Aquamarine", "material": "glass", "price": 239.55}
+{"barcode": "2559903926989", "category": "Garden", "product_name": "Hat", "color": "SpringGreen", "material": "plastic", "price": 608.21}
+{"barcode": "9817287634641", "category": "Beauty", "product_name": "For repair Frozen Keyboard", "color": "Fuchsia", "material": "rubber", "price": 159.66}
+{"barcode": "6217173102767", "category": "Games", "product_name": "Soft Tuna", "color": "LightSkyBlue", "material": "plastic", "price": 867.03}
+{"barcode": "4596808778952", "category": "Toys", "product_name": "Granite Cheese", "color": "MintCream", "material": "metal", "price": 577.78}
+{"barcode": "7222738711710", "category": "Toys", "product_name": "Concrete Pizza", "color": "FireBrick", "material": "glass", "price": 436.56}
+{"barcode": "0881603019411", "category": "Clothing", "product_name": "Keyboard", "color": "LightBlue", "material": "plastic", "price": 394.5}
+{"barcode": "9888876176583", "category": "Health", "product_name": "Used Bike", "color": "SlateGray", "material": "plastic", "price": 837.44}
+{"barcode": "1362754072320", "category": "Garden", "product_name": "Cotton Chips", "color": "SandyBrown", "material": "plastic", "price": 708.92}
+{"barcode": "6499461403514", "category": "Home", "product_name": "Metal Hat", "color": "SlateBlue", "material": "rubber", "price": 171.31}
+{"barcode": "0491134816740", "category": "Beauty", "product_name": "Granite Ball", "color": "LightCyan", "material": "glass", "price": 763.09}
+{"barcode": "6842036906420", "category": "Industrial", "product_name": "Sausages", "color": "Peru", "material": "metal", "price": 927.38}
+{"barcode": "5727534793240", "category": "Health", "product_name": "Gorgeous Shirt", "color": "GoldenRod", "material": "metal", "price": 733.05}
+{"barcode": "7902329407207", "category": "Outdoors", "product_name": "Tasty Fresh Soap", "color": "Lavender", "material": "plastic", "price": 624.9}
+{"barcode": "4298755247412", "category": "Baby", "product_name": "Fresh Mouse", "color": "Navy", "material": "metal", "price": 301.74}
+{"barcode": "5562886921770", "category": "Beauty", "product_name": "Soft Computer", "color": "DarkKhaki", "material": "glass", "price": 133.78}
+{"barcode": "1267686661041", "category": "Movies", "product_name": "Concrete Table", "color": "MediumPurple", "material": "plastic", "price": 561.76}
+{"barcode": "3086712011685", "category": "Music", "product_name": "Incredible Ball", "color": "RoyalBlue", "material": "metal", "price": 577.53}
+{"barcode": "8268057133702", "category": "Automotive", "product_name": "Chicken", "color": "DarkCyan", "material": "metal", "price": 322.29}
+{"barcode": "3304565642239", "category": "Jewelery", "product_name": "Plastic Hat", "color": "PaleVioletRed", "material": "rubber", "price": 79.64}
+{"barcode": "1014743475437", "category": "Beauty", "product_name": "Shoes", "color": "DeepPink", "material": "rubber", "price": 350.31}
+{"barcode": "6559629080770", "category": "Toys", "product_name": "Mouse", "color": "NavajoWhite", "material": "plastic", "price": 89.78}
+{"barcode": "2353214623724", "category": "Movies", "product_name": "Rustic Table", "color": "Olive", "material": "rubber", "price": 223.23}
+{"barcode": "1217549027811", "category": "Outdoors", "product_name": "Sleek Car", "color": "Black", "material": "rubber", "price": 622.26}
+{"barcode": "4625822126804", "category": "Garden", "product_name": "Used Rubber Towels", "color": "BlueViolet", "material": "plastic", "price": 774.38}
+{"barcode": "4713605444006", "category": "Industrial", "product_name": "Gently Used Car", "color": "Tomato", "material": "metal", "price": 751.02}
+{"barcode": "8890267483478", "category": "Clothing", "product_name": "Pants", "color": "MidnightBlue", "material": "plastic", "price": 615.87}
+{"barcode": "4830546420682", "category": "Grocery", "product_name": "Sausages", "color": "DarkBlue", "material": "plastic", "price": 219.18}
+{"barcode": "1875940760067", "category": "Movies", "product_name": "Rubber Salad", "color": "DarkBlue", "material": "glass", "price": 599.5}
+{"barcode": "8133496043298", "category": "Beauty", "product_name": "Fantastic Fresh Table", "color": "Tan", "material": "metal", "price": 686.07}
+{"barcode": "5790203171625", "category": "Home", "product_name": "New Rubber Pants", "color": "MediumSeaGreen", "material": "metal", "price": 140.34}
+{"barcode": "2957849377399", "category": "Tools", "product_name": "Metal Sausages", "color": "Thistle", "material": "plastic", "price": 213.05}
+{"barcode": "1234607487929", "category": "Outdoors", "product_name": "Sleek Granite Gloves", "color": "AntiqueWhite", "material": "metal", "price": 760.38}
+{"barcode": "5242843487555", "category": "Clothing", "product_name": "Plastic Chicken", "color": "DarkSeaGreen", "material": "metal", "price": 76.06}
+{"barcode": "6081119539333", "category": "Music", "product_name": "Ergonomic Soap", "color": "SeaGreen", "material": "glass", "price": 94.17}
+{"barcode": "4955885749390", "category": "Automotive", "product_name": "Cotton Car", "color": "Cornsilk", "material": "glass", "price": 909.21}
+{"barcode": "0957968451699", "category": "Toys", "product_name": "Handcrafted Plastic Ball", "color": "Cornsilk", "material": "metal", "price": 340.96}
+{"barcode": "3314995277673", "category": "Outdoors", "product_name": "Salad", "color": "DarkGreen", "material": "rubber", "price": 846.79}
+{"barcode": "2095255466303", "category": "Beauty", "product_name": "Chicken", "color": "MediumTurquoise", "material": "plastic", "price": 520.69}
+{"barcode": "0406802663267", "category": "Garden", "product_name": "Cotton Gloves", "color": "RoyalBlue", "material": "rubber", "price": 941.71}
+{"barcode": "6975790772526", "category": "Health", "product_name": "Used Frozen Fish", "color": "Orchid", "material": "rubber", "price": 946.02}
+{"barcode": "6763302197871", "category": "Tools", "product_name": "Shirt", "color": "DarkSalmon", "material": "glass", "price": 675.24}
+{"barcode": "7925431070480", "category": "Shoes", "product_name": "Practical Soap", "color": "HotPink", "material": "glass", "price": 692.78}
+{"barcode": "4667219517567", "category": "Outdoors", "product_name": "Ergonomic Metal Chips", "color": "Orchid", "material": "glass", "price": 316.47}
+{"barcode": "7109521649088", "category": "Jewelery", "product_name": "Practical Bike", "color": "BurlyWood", "material": "metal", "price": 13.72}
+{"barcode": "6029184348665", "category": "Books", "product_name": "Metal Salad", "color": "YellowGreen", "material": "glass", "price": 301.34}
+{"barcode": "2468838592650", "category": "Garden", "product_name": "Generic Wooden Pizza", "color": "Chocolate", "material": "plastic", "price": 265.14}
+{"barcode": "0073217343208", "category": "Games", "product_name": "Handcrafted Granite Hat", "color": "AntiqueWhite", "material": "glass", "price": 344.95}
+{"barcode": "9897898060459", "category": "Baby", "product_name": "Gorgeous Pizza", "color": "Bisque", "material": "plastic", "price": 630.03}
+{"barcode": "0047208130948", "category": "Industrial", "product_name": "Bacon", "color": "Thistle", "material": "glass", "price": 323.28}
+{"barcode": "2319084467172", "category": "Toys", "product_name": "Rubber Cheese", "color": "WhiteSmoke", "material": "glass", "price": 32.11}
+{"barcode": "5539146004962", "category": "Health", "product_name": "Pants", "color": "Beige", "material": "glass", "price": 531.29}
+{"barcode": "9908746314188", "category": "Garden", "product_name": "Steel Cheese", "color": "LightSalmon", "material": "glass", "price": 215.91}
+{"barcode": "1069040973698", "category": "Games", "product_name": "For repair Table", "color": "DarkViolet", "material": "plastic", "price": 91.19}
+{"barcode": "6300912412644", "category": "Kids", "product_name": "Practical Shirt", "color": "SkyBlue", "material": "plastic", "price": 926.39}
+{"barcode": "7779092758399", "category": "Tools", "product_name": "Bike", "color": "Cornsilk", "material": "glass", "price": 134.72}
+{"barcode": "9683205883756", "category": "Automotive", "product_name": "Soft Shoes", "color": "LimeGreen", "material": "metal", "price": 545.99}
+{"barcode": "0975403237042", "category": "Baby", "product_name": "Hat", "color": "SlateGray", "material": "rubber", "price": 16.48}
+{"barcode": "8398737169841", "category": "Clothing", "product_name": "Refined Chicken", "color": "Moccasin", "material": "glass", "price": 351.37}
+{"barcode": "5215799178259", "category": "Games", "product_name": "Used Hat", "color": "Gainsboro", "material": "metal", "price": 404.21}
+{"barcode": "1583059285561", "category": "Sports", "product_name": "Steel Tuna", "color": "Chocolate", "material": "glass", "price": 101.28}
+{"barcode": "0114166619713", "category": "Home", "product_name": "Gloves", "color": "Khaki", "material": "rubber", "price": 727.54}
+{"barcode": "9764194597326", "category": "Clothing", "product_name": "Hat", "color": "DarkGoldenRod", "material": "rubber", "price": 920.59}
+{"barcode": "0129565034906", "category": "Games", "product_name": "Mouse", "color": "SandyBrown", "material": "glass", "price": 501.81}
+{"barcode": "3307842761753", "category": "Books", "product_name": "For repair Frozen Cheese", "color": "Linen", "material": "metal", "price": 276.19}
+{"barcode": "2617639012595", "category": "Clothing", "product_name": "Plastic Tuna", "color": "DarkGoldenRod", "material": "glass", "price": 743.18}
+{"barcode": "9610367635008", "category": "Books", "product_name": "Rubber Pizza", "color": "DarkRed", "material": "glass", "price": 340.98}
+{"barcode": "9098397898226", "category": "Outdoors", "product_name": "Intelligent Plastic Shirt", "color": "MediumSeaGreen", "material": "metal", "price": 55.37}
+{"barcode": "8851486731757", "category": "Tools", "product_name": "Used Tuna", "color": "MediumPurple", "material": "plastic", "price": 654.25}
+{"barcode": "1882176026874", "category": "Health", "product_name": "Intelligent Pizza", "color": "MidnightBlue", "material": "rubber", "price": 370.8}
+{"barcode": "3115909105279", "category": "Garden", "product_name": "Towels", "color": "Lime", "material": "plastic", "price": 536.43}
+{"barcode": "6027258352334", "category": "Automotive", "product_name": "Practical Rubber Gloves", "color": "PaleGoldenRod", "material": "metal", "price": 224.16}
+{"barcode": "1373842399083", "category": "Garden", "product_name": "Sleek Keyboard", "color": "DarkSlateBlue", "material": "rubber", "price": 153.13}
+{"barcode": "8700536873100", "category": "Shoes", "product_name": "Handcrafted Frozen Gloves", "color": "White", "material": "plastic", "price": 203.19}
+{"barcode": "3171298112083", "category": "Electronics", "product_name": "Intelligent Fresh Bike", "color": "LightGreen", "material": "metal", "price": 945.92}
+{"barcode": "4587812922035", "category": "Shoes", "product_name": "Licensed Shirt", "color": "CadetBlue", "material": "glass", "price": 418.31}
+{"barcode": "7583684677001", "category": "Sports", "product_name": "Cotton Mouse", "color": "LightYellow", "material": "plastic", "price": 560.91}
+{"barcode": "2857631377623", "category": "Jewelery", "product_name": "Chips", "color": "DarkSalmon", "material": "rubber", "price": 752.93}
+{"barcode": "9050310500043", "category": "Shoes", "product_name": "Gently Used Rubber Shoes", "color": "DarkViolet", "material": "rubber", "price": 866.64}
+{"barcode": "0360544648657", "category": "Shoes", "product_name": "Fresh Mouse", "color": "Purple", "material": "metal", "price": 735.56}
+{"barcode": "6378903506245", "category": "Industrial", "product_name": "Steel Cheese", "color": "DarkSlateGray", "material": "metal", "price": 523.69}
+{"barcode": "2221317453930", "category": "Movies", "product_name": "Concrete Pants", "color": "LawnGreen", "material": "plastic", "price": 642.87}
+{"barcode": "8546338137831", "category": "Movies", "product_name": "Bike", "color": "Crimson", "material": "plastic", "price": 129.55}
+{"barcode": "6231007190119", "category": "Outdoors", "product_name": "Rubber Sausages", "color": "LightYellow", "material": "glass", "price": 909.14}
+{"barcode": "0398752931803", "category": "Electronics", "product_name": "Granite Pizza", "color": "Beige", "material": "rubber", "price": 238.75}
+{"barcode": "9157526865963", "category": "Home", "product_name": "Ergonomic Wooden Bike", "color": "Blue", "material": "rubber", "price": 543.05}
+{"barcode": "1914958647059", "category": "Jewelery", "product_name": "Sleek Shoes", "color": "Teal", "material": "metal", "price": 165.55}
+{"barcode": "4892107892789", "category": "Computers", "product_name": "Cotton Mouse", "color": "PaleGreen", "material": "glass", "price": 969.68}
+{"barcode": "1097219504244", "category": "Games", "product_name": "Hat", "color": "MediumBlue", "material": "rubber", "price": 997.5}
+{"barcode": "5289170278203", "category": "Kids", "product_name": "Rustic Metal Ball", "color": "Red", "material": "plastic", "price": 328.18}
+{"barcode": "8287687531641", "category": "Grocery", "product_name": "Handmade Metal Tuna", "color": "Gold", "material": "rubber", "price": 281.68}
+{"barcode": "3684838764043", "category": "Tools", "product_name": "Steel Chips", "color": "DarkBlue", "material": "plastic", "price": 622.94}
+{"barcode": "6141642284688", "category": "Automotive", "product_name": "Tasty Concrete Bike", "color": "CornflowerBlue", "material": "glass", "price": 863.28}
+{"barcode": "7134949512034", "category": "Clothing", "product_name": "Awesome Sausages", "color": "RoyalBlue", "material": "plastic", "price": 617.8}
+{"barcode": "4045821528667", "category": "Home", "product_name": "Rubber Bike", "color": "AliceBlue", "material": "glass", "price": 946.9}
+{"barcode": "4859939194948", "category": "Grocery", "product_name": "Granite Tuna", "color": "LightSkyBlue", "material": "plastic", "price": 446.97}
+{"barcode": "5418319874802", "category": "Kids", "product_name": "Rustic Metal Hat", "color": "PaleGoldenRod", "material": "rubber", "price": 267.1}
+{"barcode": "7195171336829", "category": "Sports", "product_name": "Incredible Cheese", "color": "DeepSkyBlue", "material": "rubber", "price": 999.3}
+{"barcode": "4464644566791", "category": "Toys", "product_name": "Sleek Soft Cheese", "color": "MediumAquaMarine", "material": "metal", "price": 710.01}
+{"barcode": "7307816216827", "category": "Computers", "product_name": "Frozen Hat", "color": "PaleTurquoise", "material": "metal", "price": 835.13}
+{"barcode": "8091178426039", "category": "Grocery", "product_name": "For repair Plastic Bike", "color": "OliveDrab", "material": "glass", "price": 649.42}
+{"barcode": "3733094761201", "category": "Computers", "product_name": "Pizza", "color": "MediumSlateBlue", "material": "rubber", "price": 220.99}
+{"barcode": "6991173609265", "category": "Automotive", "product_name": "Handmade Shoes", "color": "Yellow", "material": "plastic", "price": 87.77}
+{"barcode": "9712333013824", "category": "Shoes", "product_name": "Fantastic Plastic Mouse", "color": "MediumAquaMarine", "material": "glass", "price": 670.66}
+{"barcode": "2064362905487", "category": "Outdoors", "product_name": "Rubber Tuna", "color": "AliceBlue", "material": "glass", "price": 801.51}
+{"barcode": "0555309093913", "category": "Games", "product_name": "Metal Ball", "color": "LightSteelBlue", "material": "rubber", "price": 94.01}
+{"barcode": "9778927553541", "category": "Industrial", "product_name": "Small Pants", "color": "Green", "material": "metal", "price": 942.66}
+{"barcode": "9438730116622", "category": "Sports", "product_name": "Awesome Ball", "color": "MediumAquaMarine", "material": "plastic", "price": 904.83}
+{"barcode": "4465295667950", "category": "Home", "product_name": "Practical Ball", "color": "LightCoral", "material": "rubber", "price": 375.8}
+{"barcode": "6393888221686", "category": "Games", "product_name": "Gloves", "color": "AntiqueWhite", "material": "plastic", "price": 848.06}
+{"barcode": "7698634809927", "category": "Toys", "product_name": "Rustic Fresh Chips", "color": "GreenYellow", "material": "glass", "price": 288.74}
+{"barcode": "6694883888479", "category": "Health", "product_name": "Fantastic Car", "color": "MediumBlue", "material": "metal", "price": 219.67}
+{"barcode": "9503771075969", "category": "Clothing", "product_name": "Handmade Chair", "color": "PowderBlue", "material": "rubber", "price": 130.0}
+{"barcode": "0968700979630", "category": "Beauty", "product_name": "Gorgeous Fish", "color": "LightPink", "material": "rubber", "price": 112.58}
+{"barcode": "7451534227235", "category": "Beauty", "product_name": "Fresh Computer", "color": "Green", "material": "rubber", "price": 921.55}
+{"barcode": "4188280804412", "category": "Shoes", "product_name": "Used Keyboard", "color": "Snow", "material": "plastic", "price": 680.48}
+{"barcode": "7787405282080", "category": "Industrial", "product_name": "Handmade Fresh Salad", "color": "Orchid", "material": "rubber", "price": 638.62}
+{"barcode": "1754044704002", "category": "Tools", "product_name": "New Ball", "color": "DarkOliveGreen", "material": "metal", "price": 920.64}
+{"barcode": "7360446500179", "category": "Home", "product_name": "Chicken", "color": "DarkOliveGreen", "material": "rubber", "price": 48.95}
+{"barcode": "7282357971582", "category": "Tools", "product_name": "Gorgeous Steel Ball", "color": "SeaShell", "material": "plastic", "price": 738.12}
+{"barcode": "3268329196492", "category": "Games", "product_name": "Mouse", "color": "PaleGreen", "material": "plastic", "price": 186.13}
+{"barcode": "5997037010063", "category": "Automotive", "product_name": "Tuna", "color": "LightBlue", "material": "metal", "price": 146.24}
+{"barcode": "8143928493768", "category": "Tools", "product_name": "Gently Used Cotton Hat", "color": "LimeGreen", "material": "glass", "price": 47.97}
+{"barcode": "8147327795522", "category": "Industrial", "product_name": "Soft Fish", "color": "Azure", "material": "glass", "price": 611.74}
+{"barcode": "5350004742716", "category": "Movies", "product_name": "Small Bacon", "color": "Silver", "material": "glass", "price": 511.71}
+{"barcode": "0683224504693", "category": "Grocery", "product_name": "Gently Used Soft Fish", "color": "RoyalBlue", "material": "plastic", "price": 900.0}
+{"barcode": "9830531571745", "category": "Jewelery", "product_name": "Generic Bike", "color": "Wheat", "material": "plastic", "price": 619.45}
+{"barcode": "0962111066057", "category": "Music", "product_name": "Chicken", "color": "Violet", "material": "glass", "price": 881.2}
+{"barcode": "4504391220291", "category": "Movies", "product_name": "Concrete Shirt", "color": "DarkSeaGreen", "material": "rubber", "price": 942.59}
+{"barcode": "8619612833696", "category": "Electronics", "product_name": "Computer", "color": "IndianRed", "material": "rubber", "price": 772.07}
+{"barcode": "5256195043321", "category": "Industrial", "product_name": "Used Granite Bike", "color": "DeepPink", "material": "rubber", "price": 577.15}
+{"barcode": "9749679670800", "category": "Industrial", "product_name": "Frozen Chips", "color": "OliveDrab", "material": "plastic", "price": 583.39}
+{"barcode": "7161804957518", "category": "Toys", "product_name": "Tasty Table", "color": "PaleVioletRed", "material": "rubber", "price": 485.13}
+{"barcode": "8414505044117", "category": "Music", "product_name": "Wooden Sausages", "color": "Plum", "material": "metal", "price": 443.45}
+{"barcode": "7943426832417", "category": "Health", "product_name": "Granite Fish", "color": "Teal", "material": "rubber", "price": 30.18}
+{"barcode": "4514184943153", "category": "Clothing", "product_name": "Rustic Table", "color": "Snow", "material": "rubber", "price": 847.31}
+{"barcode": "1068189289158", "category": "Garden", "product_name": "Used Pants", "color": "LightSeaGreen", "material": "metal", "price": 503.17}
+{"barcode": "1233018991193", "category": "Electronics", "product_name": "Gorgeous Keyboard", "color": "Wheat", "material": "plastic", "price": 413.57}
+{"barcode": "1772179584979", "category": "Movies", "product_name": "Bike", "color": "PaleGoldenRod", "material": "plastic", "price": 184.96}

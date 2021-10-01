@@ -1,0 +1,109 @@
+﻿
+# Bool query
+GET products/_search
+{
+  "query":{
+    "bool":{
+      "must":{
+        "bool":{
+          "minimum_should_match" : 1,
+          "should" : [
+            {
+              "match":{
+                "product_name":{
+                  "query": "Tuna",
+                  "fuzziness": 1,
+                  "prefix_length": 1,
+                  "boost": 1
+                }
+              }
+            },
+            {
+              "match":{
+                "product_name": {
+                  "query": "Tuna",
+                  "analyzer": "synonym_analyzer",
+                  "boost": 0.5
+                }
+              }
+            },
+            {
+              "match":{
+                "product_name":{
+                  "query": "Tuna",
+                  "operator" : "and",
+                  "boost": 0.8
+                }
+              }
+            }
+          ]
+        }
+      },
+      "filter":{
+        "range":{
+            "price":{
+              "gte": 100,
+              "lte": 500
+            }
+          }
+        },
+      "must_not":{
+        "match":{
+          "material":"plastic"
+        }
+      }
+    }
+  }
+}
+
+
+#Bucket aggregation by price
+GET products/_search?size=0
+{
+  "aggs": {
+    "prices": {
+      "histogram": {
+        "field": "price",
+        "interval": "100"
+        } 
+    }
+  }
+}
+
+#multi_match search
+GET products/_search
+{
+  "query": {
+    "multi_match": {
+      "type": "most_fields", 
+      "query": "rubber car",
+      "fields": ["product_name", "material"]
+    }
+  }
+}
+
+# Score modifier by price
+GET products/_search
+{
+  "query": 
+    {
+    "function_score": {
+      "query": {
+        "match":{
+        "product_name":{
+          "query": "sausages",
+          "fuzziness": "Auto",
+          "prefix_length": 1
+          }
+        }
+      }, 
+      "field_value_factor": {
+        "field": "price",
+        "factor": 0.01,
+        "modifier": "reciprocal",
+        "missing": 1
+        }
+      }
+    }
+}
+
